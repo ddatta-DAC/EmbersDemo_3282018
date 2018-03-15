@@ -4,16 +4,47 @@ import os
 import pprint
 import xlrd
 
-data_file_loc = './../data'
+# --------------------- #
+# SET (True) this flag to have the input file processed
+# UNSET if already done (False)
+TO_PROCESS = False
+# --------------------- #
+
+
+# Global variables #
+data_file_loc = './../data/gartner'
 data_file_name = 'gartner.xlsm'
 data_file_path = data_file_loc + '/' + data_file_name
-data_file_loc = './../data/gartner'
+clean_file_name = 'gartner_clean.csv'
+
+
+# ------------- Methods ------------------ #
+
+def get_feed_template():
+    dict = {
+        'class': None,
+        'hyponym': None,
+        'text': None
+    }
+    return dict
+
+
+def get_gartner_data_columns():
+    col_dict = {
+        'name': 1,
+        'text1': 2,
+        'text2': 6,
+        'text3': 7,
+        'text4': 8,
+        'instance': 12
+    }
+    return col_dict
 
 
 def clean_text(text):
     comma = ','
-    new_line ='/\n'
-    ret_char='/\r'
+    new_line = '/\n'
+    ret_char = '/\r'
     comma_replacement = ' && '
     text = text.replace(ret_char, comma_replacement)
     text = text.replace(comma, comma_replacement)
@@ -22,19 +53,26 @@ def clean_text(text):
     text = text.lstrip(";-.,!")
     text = text.rstrip(";-.,!/\n")
     text = text.encode('ascii', 'ignore')
-    return text
+    return str(text)
+
+
+def clean_text_2(text):
+    text = text.replace("\'", ' ')
+    text = text.replace('"', ' ')
+    text = text.replace(' && ', ' ')
+    text = text.replace('\t', ' ')
+    return text.replace('\r\n', ' ')
 
 
 def clean_gartner_data():
+    if not TO_PROCESS:
+        return
+
+    global clean_file_name
+    global data_file_loc
+    global data_file_name
     name_col = 1
-    col_dict = {
-        'name' : 1,
-        'text1': 2,
-        'text2': 6,
-        'text3': 7,
-        'text4': 8,
-        'instance': 12
-    }
+    col_dict = get_gartner_data_columns()
     workbook = xlrd.open_workbook(data_file_path)
     worksheet = workbook.sheet_by_index(2)
     # data  starts at line 2
@@ -45,30 +83,50 @@ def clean_gartner_data():
         dict = {}
         try:
             class_name = worksheet.cell(cur_line, name_col).value
-            cur_line+=1
-            for key,val in col_dict.iteritems():
+            cur_line += 1
+            for key, val in col_dict.iteritems():
                 data = clean_text(worksheet.cell(cur_line, val).value)
-                dict[key] =  data
+                dict[key] = data
             data_dict[line_count] = dict
-            line_count+=1
+            line_count += 1
         except:
             break
 
     # Create data-frame!
     df = pd.DataFrame(columns=col_dict.keys())
 
-    for line_num,data in data_dict.iteritems():
+    for line_num, data in data_dict.iteritems():
         d = {}
-        for _a,_b in data.iteritems() :
+        for _a, _b in data.iteritems():
             d[_a] = [_b]
         _df = pd.DataFrame(d)
-        df = df.append(_df,ignore_index=True)
+        df = df.append(_df, ignore_index=True)
 
     df = df.reset_index()
-    op_file_name ='gartner_clean.csv'
-    op_file_path = data_file_loc + '/' + op_file_name
-    df.to_csv(op_file_path,index=False)
+    cleaned_file_path = data_file_loc + '/' + clean_file_name
+    df.to_csv(clean_file_name, index=False)
     pprint.pprint(df)
     return
 
+
+def gen_data_to_feed():
+    global data_file_loc
+    global clean_file_name
+    cleaned_file_path = data_file_loc + '/' + clean_file_name
+    df = pd.read_csv(cleaned_file_path, index_col=0)
+
+    for i, row in df.iterrows():
+        dict = get_feed_template()
+        dict['class'] = row['name']
+        dict['hyponym'] = str(row['instance']).split(';')
+        text = ' '.join([str(row['text1']), str(row['text2']), str(row['text3']), str(row['text4'])])
+
+        dict['text'] = clean_text_2(text)
+        yield dict
+
+
+# --------------------- Call methods! ---------------------- #
 clean_gartner_data()
+
+# for i in gen_data_to_feed():
+#     print i
