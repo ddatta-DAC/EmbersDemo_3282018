@@ -9,33 +9,6 @@ data_file_name = 'gartner.xlsm'
 data_file_path = data_file_loc + '/' + data_file_name
 data_file_loc = './../data/gartner'
 
-# def f2():
-#
-#     count = 0
-#     purge_nl = '_x000D_'
-#     with open(data_file_path, 'r') as inp:
-#         inp_line = inp.readline()
-#         while inp_line:
-#             count += 1
-#             if count == 1:
-#                 # first line is blank
-#                 continue
-#
-#             line = inp.readline()
-#             line = line.replace(purge_nl, '')
-#
-#             line = line.lstrip(";-.,!")
-#             line = line.rstrip(";-.,!/\n")
-#
-#             if len(line) == 0:
-#                 continue
-#             line = line.decode("utf8")
-#             line = line.encode('ascii', 'ignore')
-#             print line
-#             # line = textacy.preprocess.fix_bad_unicode(line, normalization='NFC')
-
-
-
 
 def clean_text(text):
     comma = ','
