@@ -52,7 +52,7 @@ def clean_text(text):
     return text
 
 
-def f3():
+def clean_gartner_data():
     name_col = 1
     col_dict = {
         'name' : 1,
@@ -94,74 +94,8 @@ def f3():
     df = df.reset_index()
     op_file_name ='gartner_clean.csv'
     op_file_path = data_file_loc + '/' + op_file_name
-    df.to_csv(op_file_path,index=True)
+    df.to_csv(op_file_path,index=False)
+    pprint.pprint(df)
     return
 
-f3()
-
-# # ----------------------------------------------- #
-# def f1():
-#     purge_nl = '_x000D_'
-#     delim = '^'
-#     max_delim_count = 4
-#     comma = ','
-#     comma_replacement = ' && '
-#     count = 0
-#     line_list = {}
-#     line_count = 0
-#     prev_delim_count = 0
-#
-#     with open(data_file_path, 'r') as inp :
-#
-#         inp_line = inp.readline()
-#         while inp_line:
-#             print 'current line count ', line_count
-#             count += 1
-#             if count == 1:
-#                 # first line is blank
-#                 continue
-#
-#             line = inp.readline()
-#             line = line.replace('purge_nl', '')
-#             line = line.lstrip(":;-.,!")
-#             line = line.rstrip(":;-.,!/\n")
-#
-#             if len(line)==0 :
-#                 continue
-#             delim_count = line.count(delim)
-#             line = line.replace(comma , comma_replacement)
-#             print 'delim count ', delim_count
-#             print line
-#
-#             if delim_count < max_delim_count :
-#                 if prev_delim_count + delim_count == max_delim_count :
-#                     # Seems this line completes the record!
-#                     line_list[line_count] = line.replace(delim, ',')
-#                     line_count += 1
-#                     prev_delim_count = 0
-#                 else :
-#                     # start of a new record, that can be completed in the next few lines
-#                     if prev_delim_count == 0 :
-#                         line_list[line_count] = ""
-#
-#                     # 2 cases :
-#                     # 1. prev_delim_count = 0  - simple case
-#                     # 2. prev_delim_count > 0 && < 4
-#                     prev_delim_count += delim_count
-#                     line_list[line_count] = line_list[line_count] + line
-#             else :
-#                 # got a complete line!!
-#                 line_list[line_count] = line.replace(delim, ',')
-#                 line_count += 1
-#                 prev_delim_count = 0
-#
-#
-#
-#             if line_count > 545:
-#                 break
-#                 # f = raw_input('strike a key! ')
-#
-#     pprint.pprint(line_list)
-#
-#
-#
+clean_gartner_data()
