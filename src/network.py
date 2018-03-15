@@ -19,6 +19,12 @@ class hyponym:
         print ' hyponym / instance :: ', self._name, ' class ::', self._class
         return
 
+    def set_text(self , text):
+        self.text = text.split()
+
+    def get_text(self):
+        return self.text()
+
 
 def create_seed_network():
 
@@ -39,7 +45,6 @@ def create_seed_network():
         G.add_nodes_from(node_list)
         for e in edge_list:
             G.add_edge(e[0],e[1],weight=1)
-
 
     return G
 
