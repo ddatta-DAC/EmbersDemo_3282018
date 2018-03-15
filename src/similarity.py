@@ -14,10 +14,16 @@ class pretrained_model:
         model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=True)
         self.model = model
 
-    def get_sim_score(self,text_list):
 
-        for t in text_list:
-            self.model
+    def get_sim_score(self, keyword_list , text_list):
+        score = 0
+        for k in keyword_list:
+            for t in text_list:
+                score += self.model.wv.most_similar_cosmul(k,t)
+        score = score / len(keyword_list)
+        return score
+    
+
 
 
 

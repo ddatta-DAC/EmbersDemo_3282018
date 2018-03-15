@@ -48,4 +48,7 @@ def create_seed_network():
 
     return G
 
-create_seed_network()
+G = create_seed_network()
+
+
+# Todo : Define the bootstrap function with the seed graph using the data provided from Twitter
