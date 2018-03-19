@@ -3,6 +3,11 @@ import sys
 import os
 import pprint
 import xlrd
+import textacy
+from spacy.language import Language
+import spacy
+# Set up english as the language for the text
+lang = spacy.load('en_core_web_sm')
 
 # --------------------- #
 # SET (True) this flag to have the input file processed
@@ -16,7 +21,6 @@ data_file_loc = './../data/gartner'
 data_file_name = 'gartner.xlsm'
 data_file_path = data_file_loc + '/' + data_file_name
 clean_file_name = 'gartner_clean.csv'
-
 
 # ------------- Methods ------------------ #
 
@@ -56,12 +60,42 @@ def clean_text(text):
     return str(text)
 
 
-def clean_text_2(text):
+
+def process_assc_text(text):
     text = text.replace("\'", ' ')
     text = text.replace('"', ' ')
     text = text.replace(' && ', ' ')
     text = text.replace('\t', ' ')
-    return text.replace('\r\n', ' ')
+    text = text.replace('\r\n', ' ')
+    text = textacy.preprocess.normalize_whitespace(text)
+    text = textacy.preprocess.remove_accents(text)
+    text = textacy.preprocess.replace_urls(text,' ')
+
+    doc = textacy.doc.Doc(content=text,lang=lang)
+    itr_named_ent = textacy.extract.named_entities(doc)
+    itr_words = textacy.extract.words(doc)
+    itr_noun_chunks = textacy.extract.noun_chunks(doc)
+
+    named_entities = []
+    noun_chunks = []
+    words = []
+
+    for i in itr_named_ent:
+        named_entities.append(i)
+
+    for i in itr_noun_chunks:
+        noun_chunks.append(str(i))
+
+    for i in itr_words:
+        words.append(str(i))
+
+    text_dict = {
+        'named_entities' : named_entities,
+        'noun_chunks' : noun_chunks,
+        'words' : words
+    }
+
+    return text_dict
 
 
 def clean_gartner_data():
@@ -103,12 +137,12 @@ def clean_gartner_data():
         df = df.append(_df, ignore_index=True)
 
     df = df.reset_index()
-    cleaned_file_path = data_file_loc + '/' + clean_file_name
-    df.to_csv(clean_file_name, index=False)
+    clean_file_path = data_file_loc + '/' + clean_file_name
+    df.to_csv(clean_file_path, index=False)
     pprint.pprint(df)
     return
 
-
+# This function provides data to the seed graph #
 def gen_data_to_feed():
     global data_file_loc
     global clean_file_name
@@ -121,7 +155,7 @@ def gen_data_to_feed():
         dict['hyponym'] = str(row['instance']).split(';')
         text = ' '.join([str(row['text1']), str(row['text2']), str(row['text3']), str(row['text4'])])
 
-        dict['text'] = clean_text_2(text)
+        dict['text'] = process_assc_text(text)
         yield dict
 
 
