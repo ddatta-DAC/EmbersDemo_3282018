@@ -4,8 +4,9 @@ import itertools
 import pprint
 # class for a company
 import cPickle
+import pickle
 import config
-
+from serialize import dump, load
 
 # a hyponym(instance) object
 # can belong to multiple classes
@@ -14,6 +15,7 @@ class hyponym:
     def __init__(self, _name, _class=None):
         self._name = _name
         self._class = []
+        self.set_class(_class)
         self.text_dict = None
         return
 
@@ -23,10 +25,10 @@ class hyponym:
 
     def display(self):
         print ' hyponym / instance :: ', self._name, ' class ::', self._class
-
         return
 
     def set_text(self, text_dict):
+
         if self.text_dict is None:
             self.text_dict = text_dict
         else:
@@ -63,11 +65,8 @@ class network():
 
     def save_model(self):
         # save the network
-        try:
-            with open(config.network_file, "wb") as f:
-                cPickle.dump(self.G, f)
-        except:
-            print 'Error in cPickle'
+        with open(config.network_file, "wb") as f:
+            cPickle.dump(self.G, f)
         return
 
     def load_model(self):
@@ -83,6 +82,7 @@ class network():
         # Weight between nodes of the same class is 1
 
         self.G = nx.Graph()
+
         for data in gp.gen_data_to_feed():
             node_list = []
             for h in data['hyponym']:
@@ -99,7 +99,6 @@ class network():
                 node_list.append(node)
 
             edge_list = list(itertools.combinations(node_list, 2))
-
             self.G.add_nodes_from(node_list)
             for e in edge_list:
                 self.G.add_edge(e[0], e[1], weight=1)
@@ -131,8 +130,9 @@ def dummy_test():
     for t in test_list:
         print 'Company :: ', t
         print network_obj.get_sim_companies(t)
-    print network_obj.get_node('Yahoo').display()
+    # print network_obj.get_node('Yahoo').display()
 
 dummy_test()
+
 
 # Todo : Define the bootstrap function with the seed graph using the data provided from Twitter

@@ -82,13 +82,13 @@ def process_assc_text(text):
     words = []
 
     for i in itr_named_ent:
-        named_entities.append(i)
+        named_entities.append(str(i))
 
-    for i in itr_noun_chunks:
-        noun_chunks.append(str(i))
+    for j in itr_noun_chunks:
+        noun_chunks.append(str(j))
 
-    for i in itr_words:
-        words.append(str(i))
+    for k in itr_words:
+        words.append(str(k))
 
     text_dict = {
         'named_entities': named_entities,
@@ -159,10 +159,15 @@ def gen_data_to_feed():
     for i, row in df.iterrows():
         dict = get_feed_template()
         dict['class'] = str(row['name'])
-        dict['hyponym'] = [process_name(x) for x in str(row['instance']).split(';')]
-        text = ' '.join([str(row['text1']), str(row['text2']), str(row['text3']), str(row['text4'])])
+        h = [process_name(x) for x in str(row['instance']).split(';')]
+        dict['hyponym'] = h
+
+        text = ' '.join([str(row['text1']),
+                         str(row['text2']),
+                         str(row['text3']),
+                         str(row['text4'])])
         dict['text'] = process_assc_text(text)
-        print dict.keys() ,  dict['text'].keys()
+
         yield dict
 
 
