@@ -6,6 +6,7 @@ import xlrd
 import textacy
 from spacy.language import Language
 import spacy
+
 # Set up english as the language for the text
 lang = spacy.load('en_core_web_sm')
 
@@ -21,6 +22,7 @@ data_file_loc = './../data/gartner'
 data_file_name = 'gartner.xlsm'
 data_file_path = data_file_loc + '/' + data_file_name
 clean_file_name = 'gartner_clean.csv'
+
 
 # ------------- Methods ------------------ #
 
@@ -60,7 +62,6 @@ def clean_text(text):
     return str(text)
 
 
-
 def process_assc_text(text):
     text = text.replace("\'", ' ')
     text = text.replace('"', ' ')
@@ -69,9 +70,9 @@ def process_assc_text(text):
     text = text.replace('\r\n', ' ')
     text = textacy.preprocess.normalize_whitespace(text)
     text = textacy.preprocess.remove_accents(text)
-    text = textacy.preprocess.replace_urls(text,' ')
+    text = textacy.preprocess.replace_urls(text, ' ')
 
-    doc = textacy.doc.Doc(content=text,lang=lang)
+    doc = textacy.doc.Doc(content=text, lang=lang)
     itr_named_ent = textacy.extract.named_entities(doc)
     itr_words = textacy.extract.words(doc)
     itr_noun_chunks = textacy.extract.noun_chunks(doc)
@@ -90,9 +91,9 @@ def process_assc_text(text):
         words.append(str(i))
 
     text_dict = {
-        'named_entities' : named_entities,
-        'noun_chunks' : noun_chunks,
-        'words' : words
+        'named_entities': named_entities,
+        'noun_chunks': noun_chunks,
+        'words': words
     }
 
     return text_dict
@@ -142,6 +143,12 @@ def clean_gartner_data():
     pprint.pprint(df)
     return
 
+
+def process_name(name):
+    name = name.strip()
+    return name
+
+
 # This function provides data to the seed graph #
 def gen_data_to_feed():
     global data_file_loc
@@ -151,11 +158,11 @@ def gen_data_to_feed():
 
     for i, row in df.iterrows():
         dict = get_feed_template()
-        dict['class'] = row['name']
-        dict['hyponym'] = str(row['instance']).split(';')
+        dict['class'] = str(row['name'])
+        dict['hyponym'] = [process_name(x) for x in str(row['instance']).split(';')]
         text = ' '.join([str(row['text1']), str(row['text2']), str(row['text3']), str(row['text4'])])
-
         dict['text'] = process_assc_text(text)
+        print dict.keys() ,  dict['text'].keys()
         yield dict
 
 

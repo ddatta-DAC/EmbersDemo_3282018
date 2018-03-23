@@ -9,6 +9,6 @@ https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/
 -----
 
 
-For parsing the gartner data set, installation of spacy english model is needed.
+For parsing the gartner data set, installation of spacy english model is needed.  
 sudo python -m spacy download en_core_web_sm
 
