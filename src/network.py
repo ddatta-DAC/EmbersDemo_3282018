@@ -7,39 +7,56 @@ import cPickle
 import pickle
 import config
 from serialize import dump, load
-from  entity import company
+from entity import company
 
+
+class network:
+
+    def __init__(self, init=False):
+        self.save_file = None
+        self.G = None
+        return
+
+    def create_network(self):
+        self.G = nx.Graph()
+        self.save_model()
+        return
+
+    def save_model(self):
+        print '> ', self.save_file
+        # save the network
+        with open(self.save_file, "wb") as f:
+            cPickle.dump(self.G, f)
+        return
+
+    def load_model(self):
+        if self.G is None:
+            self.create_network()
+        with open(self.save_file, "rb") as f:
+            self.G = cPickle.load(f)
+        return
 
 
 # -------------------------------------------------- #
 
-class company_network():
+class company_network(network):
 
     def __init__(self, init=False):
-        self.G = None
+        network.__init__(self, init)
+        self.save_file = config.company_network_file
+
         if init:
-            self.create_seed_network()
-            self.save_model()
+            self.create_network()
         else:
             self.load_model()
+
         return
 
     def get_network_info(self):
         print 'Number of nodes', self.G.number_of_nodes()
         print 'Number of edges', self.G.number_of_edges()
 
-    def save_model(self):
-        # save the network
-        with open(config.network_file, "wb") as f:
-            cPickle.dump(self.G, f)
-        return
-
-    def load_model(self):
-        with open(config.network_file, "rb") as f:
-            self.G = cPickle.load(f)
-        return
-
-    def create_seed_network(self):
+    def create_network(self):
 
         # Seed network created using the class name and instances of the Gartner Data set
         # Each company is a node
@@ -49,6 +66,7 @@ class company_network():
         self.G = nx.Graph()
 
         for data in gp.gen_data_to_feed():
+
             node_list = []
             for h in data['instance']:
                 if h == 'nan':
@@ -68,6 +86,7 @@ class company_network():
             for e in edge_list:
                 self.G.add_edge(e[0], e[1], weight=1)
 
+        self.save_model()
         return
 
     def get_sim_companies(self, cname):
@@ -86,7 +105,22 @@ class company_network():
             if g.get_name() == c_name:
                 return g
 
-# --------------------------------------------- #
+
+# -------------------------------------------------- #
+
+class product_network(network):
+    def __init__(self, init=False):
+        network.__init__(self, init)
+        return
+
+    def create_network(self):
+        return
+
+
+# -------------------------------------------------- #
+
+# -------------------------------------------------- #
+
 
 def dummy_test():
     network_obj = company_network(True)
@@ -97,7 +131,5 @@ def dummy_test():
         print network_obj.get_sim_companies(t)
     # print network_obj.get_node('Yahoo').display()
 
+
 dummy_test()
-
-
-# Todo : Define the bootstrap function with the seed graph using the data provided from Twitter
