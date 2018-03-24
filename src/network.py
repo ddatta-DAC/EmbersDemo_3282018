@@ -7,48 +7,13 @@ import cPickle
 import pickle
 import config
 from serialize import dump, load
+from  entity import company
 
-# a hyponym(instance) object
-# can belong to multiple classes
-class hyponym:
-
-    def __init__(self, _name, _class=None):
-        self._name = _name
-        self._class = []
-        self.set_class(_class)
-        self.text_dict = None
-        return
-
-    def set_class(self, _class):
-        self._class.append(_class)
-        return
-
-    def display(self):
-        print ' hyponym / instance :: ', self._name, ' class ::', self._class
-        return
-
-    def set_text(self, text_dict):
-
-        if self.text_dict is None:
-            self.text_dict = text_dict
-        else:
-            for k, v in text_dict.iteritems():
-                self.text_dict[k].append(v)
-        return
-
-    def get_text_dict(self):
-        return self.text_dict
-
-    def get_name(self):
-        return self._name
-
-    def get_class(self):
-        return self._class
 
 
 # -------------------------------------------------- #
 
-class network():
+class company_network():
 
     def __init__(self, init=False):
         self.G = None
@@ -85,11 +50,11 @@ class network():
 
         for data in gp.gen_data_to_feed():
             node_list = []
-            for h in data['hyponym']:
+            for h in data['instance']:
                 if h == 'nan':
                     continue
 
-                node = hyponym(h, data['class'])
+                node = company(h, data['class'])
                 # check if node exists!
                 for g in self.G.nodes():
                     if g.get_name() == h:
@@ -124,7 +89,7 @@ class network():
 # --------------------------------------------- #
 
 def dummy_test():
-    network_obj = network(True)
+    network_obj = company_network(True)
     network_obj.get_network_info()
     test_list = ['Facebook', 'ABB', 'NASA', 'Teradata', 'Yahoo', 'Zebra Medical Vision', 'Palantir']
     for t in test_list:

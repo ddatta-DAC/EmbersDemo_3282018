@@ -160,8 +160,7 @@ def gen_data_to_feed():
         dict = get_feed_template()
         dict['class'] = str(row['name'])
         h = [process_name(x) for x in str(row['instance']).split(';')]
-        dict['hyponym'] = h
-
+        dict['instance'] = h
         text = ' '.join([str(row['text1']),
                          str(row['text2']),
                          str(row['text3']),

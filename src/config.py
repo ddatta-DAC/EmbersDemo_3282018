@@ -1,1 +1,1 @@
-network_file = 'network.dat'
+company_network_file = 'company_network.dat'
