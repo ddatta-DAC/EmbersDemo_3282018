@@ -1,0 +1,4974 @@
+Galigeo
+Dyadic
+Mavenlink
+eFortresses
+Openet
+Comarch
+Nexidia
+Striim
+Sauce Labs
+Intelligent Energy Holdings
+Pulse8
+Teledyne Optech
+OxSyBio
+Vocalink
+ExtraHop
+Five Degrees
+Redis Labs
+SaltStack
+Vantiv
+Eudata
+TopQuadrant
+Vistaar Technologies
+FireEye
+Sony
+OpenChannel
+Exaptive
+ServiceSource
+Mondeca
+Upwork
+Liquidware Labs
+HCL
+Altitude
+Continuum Analytics
+SurveyMonkey
+Sandbridge Technologies
+OneLogin
+Allegro Development
+UnitedStack
+Pulse Secure
+Totango
+Brolly
+Paragon Software Systems
+RelayHealth
+Frontline Systems
+Covisint
+Provenance
+Neo Technology
+ThoughtWorks
+Logz.io
+WorkJam
+Tyco Retail Solutions
+Bitnation
+bpm'online
+Celigo
+Integrated Device Technology
+Lakeside Software
+Facton
+Prysm
+nCrypted Cloud
+WinMagic
+Adidas
+Light
+Sigfox
+Schneider Electric
+FIS (SunGard)
+TunedIT
+Stackla
+Nyansa
+Balbix
+Flexport
+IBM (Kenexa)
+Unbxd
+Align Technology
+Blue Pillar
+GreenJobInterview
+Veriflow
+Under Armour
+Doc Halo
+Eccovia Solutions
+eZuce
+Coalition for Better Ads
+Kingdee International Software Group
+Mirakl
+IO Informatics
+Periscope by McKinsey & Co.
+Arx Pax
+Sourcemap
+ZeroedIn
+Aceso
+Reed Tech
+Hudson RPO
+BitSight Technologies
+OneMob
+Izberg
+Manthan
+Plug Power
+Huawei Technologies
+Subzero Engineering
+MiTAC International
+GoodData
+Boardroom
+Microsoft Dynamics 365
+Mitsubishi Electric
+Boston Dynamics
+Lascom
+SmartRecruiters
+Marand
+Diversinet
+POMS
+IEEE GlobalSpec
+Adaptik
+ETH Zurich
+Welltok
+Proactis
+Polar
+ServicePilot
+Kissmetrics
+DataRobot
+Beeline
+NASA
+Enli Health Intelligence
+Guidance Software
+Insightrix
+Saba
+EnterpriseDB
+Desktop Metal
+Hirevue
+Waymo
+Echelon
+Aptus Health
+Inspired eLearning
+CrowdFlower
+Global Relay
+State Grid Corporation of China
+Audi
+Asus
+EcoFactor
+Almawave
+Flex
+Hooq
+Smartrac
+OpenCloud Factory
+Neotech AMT
+Persado
+ProSymmetry
+Respondus
+Enlighten
+Accenture (Chaotic Moon)
+NTT Communications
+Daon
+Unify Square
+Data Theorem
+Singtel
+Dyson
+iXsystems
+University of Alberta
+Predisys
+Icon
+Vivocha
+Appaloosa
+Laitek
+Ansible
+Frontline Selling
+UCloud
+Voycer
+SLM Solutions
+Line
+ClearCorrect
+Arena
+Verdantis
+Ceridian (Dayforce)
+LevelEleven
+Optimal IdM
+SolarCity
+Barnes & Noble Education LoudCloud (Fastrak)
+Wipro Holmes
+Auth0
+Lynda.com
+Symbotic
+Metalogix
+Inspur
+Cloud Engines
+Sharethrough
+Meyer Instruments
+Magento Commerce
+FireMon
+Entersekt
+Brinqa
+ARM (Sansa Security)
+AvePoint
+Selligent
+Paessler
+UserZoom
+Scilligence
+Fractal Analytics
+Kiosk Information Systems
+MUV Interactive
+Pegasus Vertex
+Bidgely
+Forensiq
+Merkle
+Blue Coat
+China Wiserv Technologies
+GetWellNetwork
+Archive Systems
+The TerrAlign Group
+EOS
+Jumio
+Codeplay
+Telmediq
+Trumpf
+Operation Technology
+Triax Technologies
+Bolt
+Genesys
+Aconex
+Graduway
+LexisNexis
+AutomationEdge
+Digital Lumens
+Scanadu
+Townsend Security
+Kymeta
+Dovetail Software
+Liferay
+EXL
+Atos
+Hiving Technology
+Lyft
+Western Digital
+DXC
+Voxiebox
+Capstone Turbine
+Realizeit
+Check Point
+eBuilder
+Autoscribe Informatics
+Paessler AG
+Datanomers
+Stratasys
+Huddle
+Perigord
+Shanghai Super Electronic Technology
+Surescripts
+ThetaRay
+Denodo
+LiveAction
+INC Research
+Weatherford
+Sensible Vision
+HIPAATraining.com
+Nutonian
+Nomi
+Fabrisonic
+Wavefront
+LevelUp
+Massivit 3D
+HCA-Sarah Cannon (Genospace)
+Amazon
+Datawatch
+Samsung Display
+SmashFly
+Jaggaer (POOL4TOOL)
+Tech Mahindra
+IP Infusion
+ARA Networks
+Trilliant
+Pro-Change Behavior Systems
+Sopra Steria
+PointCross Life Sciences
+TIBCO Software (Spotfire)
+Qliktech
+ShopGo
+Steeper
+IPFS
+Immunity
+Lastline
+eperi
+Lifesize
+UniPrint.net
+Fanuc
+Mcor Technologies
+Ubimax
+Bebop Sensors
+Corvil
+InterDigital
+comScore
+Caterpillar
+Microblink
+Pfizer
+Philips Research
+Trezor
+Galvanic
+Acxiom
+FatPipe Networks
+Virtusa
+KICA
+SAP Adaptive Server Enterprise
+EclecticIQ
+Cass
+SIMUL8
+AiQ Smart Clothing
+Infobip
+Infer
+Ardor
+Elliptical Mobile Solutions
+Microsoft Office 365 (Office Delve
+Q2 Learning
+Endava
+SAP (Concur Technologies)
+Bootstrap
+audEERING
+Smart Technologies
+RubyMotion
+CloudJumper
+NetBase
+Send Word Now
+Blackboard
+Apache
+Snapchat
+Poloniex
+Ouraring
+Aspera
+IBM Global Business Services
+Mitek
+Socialbakers
+Eyes on Freight
+Pegasystems (OpenSpan)
+SES
+Kooomo
+MBO Partners
+Viptela
+Autotalks
+Sprinklr
+HealthAsyst
+GoldenSource
+Amdocs
+MIMOon
+Buzz 3D
+OrcaConfig
+Loftware
+Teradata (Aster Analytics)
+i1 Biometrics
+Metron
+Zoom
+Vasco
+Cloud Native Computing Foundation
+Clearpath Robotics
+Neos
+Fortinet
+One Network
+RichRelevance
+Railinc
+Sysomos
+Cray
+Epam
+Landis+Gyr
+Systech
+Zebra Medical Vision
+Polaris
+Lexmark (Kofax)
+CenturyLink
+CCL Industries (Checkpoint Systems)
+Logbar
+Quanta Services
+iBuildApp
+AiCure
+University of Houston
+Provance
+McKesson (RelayHealth)
+Capgemini
+Colligo
+Sungard Availability Services
+ANT Neuro
+Electric Mirror
+BrightStarr
+Lansa
+eyeo
+Atheer
+BestFit Mobile
+Uber
+Solar Security
+RingDNA
+Candi
+Emotiv
+ZeroFOX
+Pica8
+Gigabyte
+TalentCove
+Argyle Data
+Diverst
+Duck Creek Technologies (Yodil)
+Cybernetica
+BroadSoft
+Tigera
+RTI International
+Asana
+Timex
+Twilio
+Evernote
+CAMO Software
+Snow Software
+Derdack
+InteraXon
+Virtuozzo
+Vizbee
+Lieberman Software
+JDA Software
+Blippar
+Sencha
+Lexumo
+Siliconware Precision Industries (SPIL)
+Monetate
+OM Partners
+Sonifi Health
+Backbone
+Custora
+Rancher Labs
+Lumiata
+Quarri Technologies
+JDA Software (RedPrairie)
+ShipXpress
+Synopsys
+SPS Commerce
+Tata Consultancy Services
+CA Technologies (ITKO)
+Inmarsat
+commercetools
+Visbox
+Receptiviti
+neurowear
+Alteryx
+Optimizely
+Rebtel
+L&T Technology Services
+Jobvite
+Cincinnati Inc.
+Silent Circle
+Kraken
+NeuroSky
+Pearson
+Glucowise
+Druva
+Kobil
+Acrobatiq
+Scalable
+Zebra Imaging
+Inovalon
+CodeObjects
+Vortal
+ExOne
+Evident Thermoelectrics
+SoftBank Robotics
+Amdocs (ActixOne)
+Brainshark
+Meisterplan
+3M Health Information Systems
+Cloudhouse
+Y Soft
+Petzila
+OpenBCI
+Apptomics
+Immersive VR Education
+Dyadic Security
+Broadleaf Commerce
+enLabel Global Services
+Rainbow
+Skymind
+Nexus Group
+Fidelity Information Services
+Acatec
+Peratech
+SpendWell Health
+Tesla Motors
+NationSky
+Imat Solutions
+Hubsan
+Sumerian
+Vu Digital
+Allgress
+SAP (Fieldglass)
+Qubole
+RecoveryPlanner
+Sentrol
+Cree
+Crayon Data
+Betterific
+Moxie Software
+Waltz
+Cedexis
+WorkZone
+CDW
+ZF
+LumenVox
+OnForce
+DoubleVerify
+MediaTek
+Clarity
+Shenzhen Maction Technology
+Digital Shadows
+Kaggle
+Infinilytics
+Wistron
+NZed
+Thycotic
+Continuity Software
+SecureKey
+XYZprinting
+A10 Networks
+Cumulus Networks
+Authentise
+Oracle Fusion
+BluJay
+Cerner
+Maestrano
+RiskBazaar
+3VR
+Cytoscape
+AWS Marketplace
+Radius Networks
+Savioke
+Configura
+YSoft
+Skyward
+Fox
+Amplion
+Stone Bond Technologies
+Allied Control
+Testbirds
+Adeptia
+Datadog
+Qualys
+Broadcom
+Azuqua
+Kontainers
+Kensington
+NextLabs
+Tech King Operations
+Ixia
+Jusfoun Big Data
+Rhode & Schwarz
+Seeq
+Niara
+Ubims
+EDGE3 Technologies
+Built.io
+OneSpace
+TargetX
+IPfolio
+Allen Technologies
+Resco
+CGI (Logica)
+Xtensible Solutions
+BladeRoom
+EC Power Systems
+Demohour
+Creaform
+RightAnswers
+Senseg
+Workday
+Luxoft
+ATEC
+CipherCloud
+SAP (S/4HANA)
+Malauzai Software
+Verizon Digital Media Services (EdgeCast)
+Cass Information Systems
+ForgeRock
+ThousandEyes
+AIMMS
+BAE Systems Applied Intelligence
+Ember
+IHS Markit
+Nativo
+SEL
+Oracle Commerce
+CloudSense
+Thalmic Labs
+SpotX
+Darktrace
+NewVoiceMedia
+HelpSystems
+DocSend
+Simulmedia
+University of Illinois
+IBM (SPSS)
+Salesforce Commerce Cloud
+Sopheon
+Thinker Thing
+Wisetail
+Royal Philips
+LinkedIn
+Amkor Technology
+Open Bank Project
+Sony Electronics
+Fangle Technology
+Avalanche Technology
+Bristlecone
+Nginx
+InMobi
+Embotics
+Domino Data Lab
+Aegis
+Jaggaer
+GlobalMed
+Ambiotex
+VoIPmonitor
+Numecent
+TrueBlue
+Sopra Steria Group
+Mobify
+SAP SuccessFactors
+Anaqua
+CloudVelox
+Scripps Institution of Oceanography
+Highfive
+AppEnsure
+Deloitte
+Athonet
+ARM
+Zenedge
+Social Solutions
+Weaveworks
+SAS (Visual Analytics)
+Unbotify
+University of Dallas
+Ennov
+Natural Machines
+Puppet
+ScienceLogic
+Microchip Technology
+AudienceXpress
+Inspirage
+BlackBox Biometrics
+Nuix
+Moog
+Nobal Technologies
+LiveVox
+OpenText
+x.ai
+Genesys Telecommunications Laboratories
+Transporeon
+Twitter
+Onzo
+Orange
+SnapRoute
+Lighthouse Systems
+Vembu
+Power Ledger
+Cognition
+Denso
+Firefox
+Delphi Automotive
+Cryptzone
+EyeSense
+QiO
+Zerto
+Nielsen (eXelate)
+Ningbo Sanxing Electric
+Swisscom
+Information Mediary Corp
+3D Robotics
+Visa
+Sonic Foundry
+Cisco (Tropo)
+Cortado Mobile Solutions
+42Q
+ManageEngine
+Saft
+NextHealth Technologies
+Spyrus
+FNT Software
+iPayNow
+Medikly
+Deep Genomics
+FitBark
+Novabase
+Ideal Life
+Markforged
+Quora
+prudsys
+TeleHealth Services
+P.I. Works
+Accenture
+Rubrik
+Kaspersky Lab
+RingCentral
+Safaricom
+ReSound
+Omnyx
+Blue Spark Technologies
+Blockchain Capital
+KPN
+Kony
+ClickSoftware
+Kx Systems
+FaceTec
+Emarsys
+CareSkore
+TrustWeaver
+Witt O'Brien's
+QuickLogic
+IBM-Hyperledger Fabric
+Samsung SDS
+iHealth
+Intel Security (McAfee)
+Alipay
+Owlstone
+IDrive
+Immunio
+Appcelerator
+Workfront
+Technomedia
+Whizpace
+WinterLight Labs
+Clickworker
+Device Authority
+Databricks
+Google Cloud Platform
+Nimble
+Cnoga Medical
+Wellcentive
+Kodit
+WalkMe
+Infosys
+Magic Leap
+Fortumo
+DataDirect Networks
+Engis
+China Unicom
+Affymetrix
+Paradigm
+Croc
+SurfBox
+Workometry
+SecureAuth
+PubMatic
+Dell SecureWorks
+Innovation Group
+Juniper Networks
+Integrity Global Security
+Disciplined Agile
+Ultimaker
+Hubble
+Dialog Semiconductor
+Cylance
+ExaGrid
+TeraView
+Sun-Net Consulting
+BMC (BladeLogic)
+Qstream
+Ecovacs Robotics
+Alation
+McKinsey Solutions
+Dell Technologies (RSA)
+Soti
+ThreatMetrix
+Herta Security
+IBM (Watson Analytics)
+Imprivata
+Future Facilities
+PubNub
+Epicor
+Irisys
+Breezy
+VitreosHealth
+Boldon James
+Tohoku Steel
+BitGo
+Hearst
+AMD
+Quorum
+OpenSimulator
+Bricata
+Noggin
+KZO Innovations
+LIMSABC
+Riskonnect
+West Monroe Partners
+Talend
+iboss
+Trade Area Systems (TAS)
+Square
+Connexall
+Accenture Digital
+Manhattan Associates
+3scale
+BlackBerry (Good Technology)
+Pomello
+Global AlertLink
+Verivo Software
+ByteGrid
+Simply Measured
+RapidSOS
+Webair
+iQuantifi
+Koble
+LogRhythm
+FSLogix
+ViTRAK Systems
+NComputing
+OneRASP)
+Silver Spring Networks
+Digicash Payments
+EMnify
+Korn Ferry Futurestep
+Hearsay Social
+Extedo
+Proteus Digital Health
+Barclays (Pingit)
+Aerospike
+Taskstream
+Mega
+Recovery Point
+Flir Systems
+LG Electronics
+ServicePower
+Abbott
+Nintex
+Resilinc
+Bendigo and Adelaide Bank
+Brainwave
+HigherGround
+Viber
+New H3C Group
+1EDISource
+Optomec
+Technip FMC
+Oceaneering
+Aegex Technologies
+OSVehicle
+Stryker
+DJI
+Ink
+Illumio
+Qventus
+TantaComm
+Veritas
+Spinnaker Support
+FirstFuel
+OpenX
+Rogue Wave
+Hexagon (Intergraph)
+Phoenix Integration
+Servoy
+Conenza
+NuoDB
+NFC Ring
+HPE SimpliVity
+AVG
+LiveProcess
+Lytics
+Zephyr
+Powermat
+Picwell
+Lavastorm Analytics
+Pix4D
+Spiceworks
+NowSecure
+Diablo Technologies
+Comet Solutions
+NTT Data
+ZeOmega (HealthUnity)
+Instec
+Aravo Solutions
+Orion Health
+Bluelock
+Glucosense Diagnostics
+OT
+FlexSim Healthcare
+Appway
+HTC
+NetSuite (OrderMotion)
+Intellect SEEC
+Influence Health
+Vitality
+PrinterLogic
+Vertiv
+Philips
+CallidusCloud
+Wayfinder Systems
+Serenova
+Bragi
+The Open Group
+Abbott Informatics
+GrabCAD
+Skycure
+Microsoft (Dynamics CRM Online)
+Wingspan Technology
+Geli
+SQLstream
+Segment
+OpsVeda
+Edicom
+TeleSign
+Castlight Health
+Catapult
+Profisee
+Wyss Institute
+PartnerPath
+Intelen
+Stealth Software
+Semiconductor Manufacturing International Corp
+Kudan
+Microsoft (Microsoft Dynamics CRM)
+Kapost
+KiteDesk
+Paragon Software Group
+Qubit
+Xamarin
+HireVue
+Spredfast
+ABB
+XtratuM
+Zaloni
+FICO
+Siemens (Power Technologies International)
+Hyland Software (OnBase)
+Ethereum Foundation
+Plantronics
+Suunto
+Additive Industries
+Pagero Group
+Mazik Global
+Alcatel-Lucent
+Cherwell Software
+Beijing Tiertime Technology
+Infogix
+Curata
+PageUp
+Meridium
+NEC
+Bosch Security Systems
+High-Tech Bridge
+FraudLens
+BlueConic
+ETS
+General Motors
+Everledger
+Halma (CenTrak)
+Verizon Enterprise Solutions
+Brand Embassy
+Kinvey
+TDK
+Cafyne
+Webinfinity
+WorkFusion
+University of California (Berkeley)
+ActX
+d-Wise
+BBVA
+Soasta
+Jahia Solutions Group
+Wolfram Research
+Kinaxis
+Morse Micro
+Kino-mo
+StackRox
+SoundCloud (Prometheus)
+Speech Technology Center (SpeechPro)
+Flowmon Networks
+Efeso Consulting
+MatrixIT
+Controle
+iCIMS
+Trueblue
+Clarabridge
+Kontakt.io
+Softeon
+PulsePoint
+T-Systems (Vamosa Technologies)
+Asetek
+ZyLAB
+Intouch with Health
+CloudCraze
+Micro Focus
+RapidMiner
+Toshiba
+ACORD
+Pluralsight
+Shyft
+C3 Metrics
+RoboDynamics
+Moogsoft
+ZS Associates
+IBM-OpenPages
+Imperva
+Adobe
+Tagit
+SNL iPartners
+Martian
+Tink
+Armory
+App47
+KoolSpan
+PCMS
+Vodafone
+Moat
+Ataccama
+Advanced Software Designs
+Turo
+D-Wave Systems
+Badgeville
+Protiviti
+DNAnexus
+Align Biopharma
+Prolifiq
+Lein Applied Diagnostics
+Yingchuang
+Clarizen
+Tatung
+NantHealth (Vitality GlowCap)
+Sykes
+International Network of Crisis Mappers
+BI Worldwide
+Validic
+Viridity Energy
+RedPoint
+Jive Software
+Aerodyne
+Mentis
+EZMCOM
+iTiZZiMO
+FogHorn Systems
+CellMining
+MarianaIQ
+TeamQuest
+Clearswift
+McKesson
+Yonyou Network
+Nokia
+Medic4all
+Salesforce
+TrialScope
+Starbucks
+Canon
+Aerohive Networks
+9 Spokes
+virtuwell
+Exterro
+Viavi Solutions
+Seiko Epson
+FeliCa Networks
+GMC Software
+Backbase
+CurrencyFair
+Loyaltyworks
+Carena
+Hobi International
+Digital Field Solutions
+Harmony Healthcare IT
+Kopin
+Okta
+Nosco
+Bought by Many
+KBMax
+Nanyang Technological University
+Actifio
+Cazena
+NTT Data Services
+Collab
+Ponoko
+Nantero
+Rave Mobile Safety
+kCura
+TripleLift
+MemSQL
+Private Access
+Convoy
+3M (Health Information Systems)
+Honeywell Process Solutions
+Flexera Software
+TAKE Solutions
+BigLever Software
+Savari
+LG Chem
+NCR
+DaVIZta
+Veristride
+Mahindra Comviva
+Saint
+Raonsecure
+Earnix
+Waterfall Security
+ScoutRFP
+Blockchain Health
+Access Intelligence
+SteepRock
+Esri
+Denim Group
+Xerox (PARC)
+Riversand Technologies
+Examity
+Rx-360
+BioID
+Pilgrim Quality Solutions
+Singular Intelligence
+Array Health
+Micropelt
+Kinetic
+Ortec
+Altitude Software
+Parkopedia
+XpertRule Software
+Aprecia
+Trustwave
+HM Health Solutions
+Wizdee
+MetaSystems
+Arxspan
+Textronics
+Benefitfocus
+Eyelit
+Willis Towers Watson
+Chronicled
+Applause
+Knowles
+Gem
+Zimperium
+SmartContract
+Zoho
+Green Hills Software
+Zettakit
+CyberArk
+Coreworx
+Nanoscribe
+Talemetry
+DreamBox Learning
+Marxent
+SAP
+TransEnterix
+PowerObjects
+Anboto
+Kore.ai
+Hype Innovation
+River Logic
+Quortus
+Unifi
+Logivations
+Adaptive
+RiskRecon
+Ehrhardt + Partner Solutions
+Code Dx
+Qudian
+Machine learning will have a significant impact on the supply chain and can revolutionize how a supply chain organization responds to a changing environment. With machine learning &&  many supply chain decisions that were previously made &&  based on rudimentary or manual analysis &&  can now take advantage of massive amounts of text &&  video &&  image and sound data to identify patterns &&  generate insights and predict future outcomes. Also &&  machine learning can improve overall productivity &&  freeing up human resources that used to be dedicated to these analyses &&  to focus on higher value tasks.
+Furthermore &&  previously undetected patterns can be identified by conducting analysis with no preconceived user assumptions or relation definition. For example &&  with machine learning &&  the algorithm will determine the most critical drivers for forecasting customer demand without a need for the user to explicitly identify the drivers.
+Various supply chain processes can benefit from adopting machine learning. For example &&  with machine learning a manufacturer can conduct real-time analytics to determine the likelihood of future component failure &&  optimize asset utilization &&  improve speed to market and minimize product recall. Similarly &&  supply chain organizations can improve customer service levels by detecting changing dynamics in market demand and needs &&  and recommend the most appropriate course of action to satisfy those needs. Other potential use cases for machine learning include supplier performance management &&  supply chain risk management &&  and pricing and product portfolio management
+MUSA
+Xerox
+Zucchetti SPA
+Medibase
+Flytxt
+Kuka Robotics
+BetterWorks
+PathGroup
+i-nexus
+CrowdWorx
+TVR Communications
+Connecture
+GlucoWise
+Epsilon
+Nemesysco
+Optricity
+Xeeva
+ID Analytics
+Pwnie Express
+xMatters
+Hyperledger Project
+LivingSocial
+QinetiQ
+Talentia Software
+Computer Modelling Group (CMG)
+Celonis
+Execview
+CA Technologies (Layer 7)
+Salesforce Demandware
+Gigya
+Responsify
+Unicom Global
+Zedi
+Affine Analytics
+Vinculum
+Whistle
+Hawkeye Systems
+Working Solutions
+4C Strategies
+Pega
+Vymo
+Rethink Robotics
+Topcon Positioning Group
+Continuity Housing
+Sina
+Reekoh
+Philips Lighting
+Cohda Wireless
+International SOS
+HCL Technologies
+Data Advantage Group
+Icertis
+Satmetrix
+Talentsoft
+Enablon
+UnionTech
+Bazaarvoice
+Logility
+PerfectServe
+Fluxicon
+CMET
+Fujisoft
+Label Insight
+3D Platform
+Acquia
+Deloitte Digital
+Kantox
+inContact
+Reinsurance Group of America (RGA)
+NTT Docomo
+Elemental Machines
+DingdingTingche
+Skybox
+Amplience
+Health Catalyst
+Schedule1 (DataPassports)
+II-VI Marlow
+DynaFile
+Mattel
+Seclore
+Schlumberger (Merak)
+Titus
+360 Technologies
+EY
+AlignStar
+WePay
+SML Intelligent Inventory Solutions
+Attivio
+Apigee
+Rockwell Automation
+Early Warning Services
+Trax Image Recognition
+Zentera Systems
+Platform.sh
+Credits
+Seapower
+Humanyze
+Browsium
+Oneview Healthcare Solution
+Seal Software
+CloudBees
+Phenom People
+Mojo Networks
+Umanick
+Service-Flow
+Ersatz Labs
+BoxC
+G-Paws
+Secucloud
+ST Microelectronics
+DSI
+E Ink
+Lytro
+BigPanda
+CloudApps
+Nipendo Supplier Cloud
+Trv
+uReveal
+Hon Hai / Foxconn Technology Group
+Monolite UK
+CloudLIMS
+Catchoom Technologies
+Sharecare
+ZhongAn Technology
+Premier
+Linden Lab
+Milsoft Utility Solutions
+Esko
+XMPro
+CtrlS Datacenters
+Emmi
+TigerText
+Rifiniti
+Arista Networks
+Systran
+Regus
+Datum360
+RW3
+Human Factors International
+ShoCard
+Cyfuse Biomedical K.K.
+Siemens
+Mashery
+SolidPlant
+Nuheara
+InnoCentive
+Oculus VR
+Oracle Utilities
+ESI Group
+healthfinch
+Netatmo
+Snowflake
+Aerotec
+Jordan Lawrence
+Vyopta
+Rubikloud
+Tio Networks
+Pexip
+Green Eco-Manufacture (GEM)
+Asseco Business Solutions
+Kingston Technology
+MeSpoke
+Herd Wisdom
+Schneider Electric (American Power Conversion)
+Piller Power Systems (Active Power)
+Ventana Medical Systems
+University of Liverpool
+NetMotion
+Arrow Electronics
+Bridge-Tech Medical
+Zuberance
+ThreatConnect
+Xi'an Bright Laser Technologies
+Chef
+Eurotech Group
+Neato Robotics
+SimScale
+BAK Battery
+Dropbox
+Lionbridge
+CallMiner
+Seegrid
+Information Builders
+BEN
+Planisware
+Nexthink
+Gong.io
+Ekso Bionics
+QingCloud
+LogMeIn
+Greenwave Systems
+Umbraco
+Beyond Verbal
+Zebra Technologies
+OutSystems
+LogicBay
+Cristie Software
+Tealium
+Beltone
+Vocera Communications
+IHS
+Angoss
+Penta Security Systems
+Sia
+Google (Container Registry)
+Cymulate
+Bluescape
+SeePoint
+Atlantis Computing
+Ringly
+Cogisen
+SQS
+Moodmetric
+Recursive Labs
+Euvic Group
+Ilex International
+C.H. Robinson
+iFLYTEK
+Virtual Forge
+Pymetrics
+Tesla
+Ares Project Management
+Stackery
+Jabra
+Digital River
+KPIT
+Silicon Labs
+SpearFysh
+Munters
+Scale Computing
+EyeTracking
+athenahealth
+BuyerQuest
+Zocdoc
+Infoglide
+ClearStory Data
+Hyland
+Craft
+Elastic Path
+McKinsey & Co.
+Wattcoin Labs
+22MILES
+NM Group
+BriteCore
+SourceForge
+Postman
+Panzura
+Newgen Software
+Cellix
+Aethon
+Lexmark
+React Native
+Workspot
+Nearpod
+NewsCred
+Patrix
+Parrot
+X-IO Technologies
+Roche
+Perdoo
+Q-nomy
+AliveCor
+WatchGuard
+CensorNet
+Percolate
+Skillsoft (SumTotal Systems)
+Accenture (Genfour)
+Oracle (Dyn)
+Arcadia Solutions
+Turbonomic
+Optimal Plus
+Gemtek
+Veracode
+Adbrain
+Realtek Semiconductor
+NetEase
+Automated Insights
+Decision Insight
+Aigen
+Skyword
+Scalable Software
+Formotus
+Sparx Systems
+CellTrust
+BAE Systems
+Vargo
+Apttus
+Inttra
+China Telecom
+Quirky
+Trustonic
+NetComm Wireless
+Ultimate Software
+Mobile Heartbeat
+Dell Boomi
+OmniComm Systems
+BIOS ME
+wepa
+HighPoint
+1WorldSync
+Transwarp
+ConsenLabs
+GrowthIntel
+Leidos (Industrial Defender)
+Verizon Wireless
+Aeryon Labs
+Stormshield
+Jastec
+Applied Systems
+CogniStreamer
+Netlist
+Crown Equipment
+CRF Health
+Turn
+Infor
+Object Management Group
+Seeburger
+Oblong
+OneSaas
+Xery 3D Printing Science & Technology (Anhui)
+doeLEGAL
+Pluribus Networks
+Compass Professional Health Services
+Ensighten
+3D Control Systems
+InVision
+LookingGlass
+TIS
+Deed S.r.l.
+Casahl
+Deloitte (ConvergeHEALTH)
+BlueJeans Networks
+Vanilla Forums
+The main purpose of emerging SD-WAN products is to create simpler and more cost-effective branch office WANs that map to modern application and cloud architectures &&  and are significantly faster &&  easier to deploy and more manageable than traditional &&  router-based solutions. The benefits of an SD-WAN approach are substantial &&  compared with traditional router-based WAN architectures &&  including reduced capital and operational costs at the WAN edge &&  improved provisioning times &&  and the potential for enhanced branch availability and uptime.
+Allscripts (EPSi)
+Curalate
+OctaShop e-Retail Services
+Grey Wall Software
+JD.com
+Stack Telecom
+ClearCost Health
+Drayson Technologies
+cole Polytechnique Fdrale de Lausanne
+Hansoft
+Provade
+North Highland
+Core Security
+INRS
+Enterprise Architecture Center of Excellence
+Insight
+ValidSoft
+Crosscheck Networks
+Neustar
+Vuzix
+BMC
+Azorus
+Seams
+American Well
+Vaporstream
+Appsee
+McAfee
+Sky-Futures
+Cymbet
+Lenovo Health
+Axoom
+Brightcove
+TIBCO Software (Mashery)
+Phytorion
+Aclara Technologies
+Oracle (Fusion)
+NopSec
+Infonova
+Rogers Research Group
+Google (DoubleClick)
+Supermicro
+Renrendai.com
+CoSMo
+VisionWare
+VoiceVault
+Eneco
+Oxcyon
+BuildingIQ
+Siemens PLM Software
+Blockstream
+KBC
+ECS
+Chartboost
+AttackIQ
+PNMsoft
+Cloud Foundry Foundation
+Sutherland Global Services
+Detechtion Technologies
+Billtrust
+Avanade
+Counsyl
+Bourque Logistics
+Showpad
+APT
+Verodin
+Red Hat (OpenShift)
+PowerPlan
+Cloudpipes
+Hertzler Systems
+FiberHome Starry Sky
+Arise Virtual Solutions
+American Red Cross
+Elevate
+ACCIOD
+Datatrak International
+PredictiveHire
+Sift Science
+Bill.com
+Telcel
+NEM
+Zapier
+Truven Health Analytics
+Hillcrest Labs
+Coveo
+Mimecast
+Altizon Systems
+ThoughtSpot
+Sylogent
+CoverWallet
+Chain-Sys
+ServiceNow
+R3
+Genband
+SecuPi
+ConnectedHealth
+Unit4
+Planbox
+Eclipse Foundation
+HGST
+Inova Software
+Polk
+Sierra Wireless
+Metaliquid
+Portfolio Decisions
+Formlabs
+IFRC
+EFI
+Invidasys
+AU Optronics
+ExamSoft
+ObjectSecurity
+Go Moment
+DataStax Enterprise
+Plaid
+InfinityQS
+Aceyus
+InfoCert
+Wanxiang Group
+Biscom
+Billing Platform
+Xactware Solutions
+Bradford Networks
+Nexant
+Gravitant
+pureLiFi
+Retarus
+HPE
+Musion
+Ecology Examination
+Jostle
+iBASEt
+Oticon
+TecAlliance
+Eyenimal
+BlockCypher
+Rogue Wave (Akana)
+Tintri
+AutoGrid
+10Pearls
+Unisys
+Culture Amp
+Apache Software Foundation (Hadoop)
+FTI Technology
+MercuryGate International
+Exasol
+Infosim
+Cisco Systems
+Capital One
+Opera Solutions
+Mattr
+MuleSoft
+Good Technology
+PTC
+RetailNext
+PBS
+NanoMedTech
+ImageWare Systems
+Orange Business Services
+MediQuant
+Johnson Controls
+Intellify Learning
+T2Cloud
+Lavante
+ClearCost
+Cambridge Analytica
+F5
+Wifarer
+Global SolarChange
+Theatro
+Sensus (Verdeeco)
+Philips Lightolier
+BigRep
+BetterCloud
+Switch Automation
+SalesLoft
+Actian
+Osterhout Design Group
+Aleph Objects
+The Rounds
+Logi Analytics
+eWise
+WiTricity
+Fujifilm TeraMedica
+ToolsGroup
+1C Company
+Tridium
+Anachron
+Arch Meter
+F5 Networks
+Crowdcast
+Kwanzoo
+Bloomfire
+Google (Google App Engine)
+Senet
+Fieldbit
+Equals 3
+Celestica
+Box
+Changepoint
+D2L (Brightspace)
+Nordic Semiconductor
+Synack
+TSMC
+Five9
+GetInsured
+CrisisCommons
+MIOsoft
+Boston Dynamics)
+DecisionDesk
+Bromium
+clypd
+Photosynth
+Nest
+Amalgam Rx
+LabVantage
+Zortrax
+Bracket Computing
+Guardtime
+Cedar Gate Technologies
+SimpliVity
+Optimal
+TCS
+Sonru
+FJA
+Claro
+Honeywell (Intermec)
+EyeTech Digital Systems
+Skuchain
+Pactera
+Simba Technologies
+Kik
+KeyNexus
+RIVS
+Eurofins Genomics
+Allotrope Foundation
+ShopEx
+AutoNavi
+Anexinet (ListenLogic)
+Technisys
+Avast
+Bitglass
+Indicus Software
+Ambio Health
+Planned Departure
+San Tech
+Eutelsat
+Knowledgent
+Rainbow Biosciences
+Haier Group
+Slice
+Petroleum Experts
+Mutual Mobile
+eLoyalty
+Garmin
+Philips Healthcare
+Racemi
+DivvyCloud
+Tile
+Qumulo
+China Intelligent Transportation System
+RiverMeadow
+Nok Nok Labs
+Advanced Systems Concepts
+Piller Power Systems
+SER Group
+Confluent
+SynerTrade
+BCD Travel
+Insite Software
+MobileForce
+Skyhigh Networks
+Kaltura
+DataStax
+Miracle-Ear
+Forter
+Accton
+Aunt Bertha
+iNube
+CLM Matrix
+Semtech
+Voluntis
+Contemplas
+Google Robotics (Schaft
+Ricoh
+ComAround
+FieldAware
+TransCelerate BioPharma
+Alpine Data
+InfoWatch
+Airtag
+HICX Solutions
+Tyk
+Octiv
+Datum
+Sapho
+FreeConferenceCall.com
+EnOcean
+Harman (Redbend)
+Decusoft
+Points
+whiteCryption
+Amity
+PMA
+Ericsson
+Awareity
+SparkBeyond
+SAP (Ariba)
+Beijing Longyuan Automated Fabrication System
+The Understanding Group
+Dizzion
+3M
+Foxtrot Code
+Next21 K.K.
+Qrio
+Halliburton (Landmark)
+Ramco Systems
+Asiga
+AltspaceVR
+Osirium
+Engagio
+Addiction Research Center
+Ramp
+Alibaba Cloud
+Narrative Science
+Greenphire
+Savo
+Indegene
+Here
+HP Inc. (OpenText)
+AppNexus
+Aspect
+EuSoft
+Hootsuite
+Kateeva
+ConforMIS
+Sonos
+IBM (OpenPages)
+UiPath
+EagleView Technologies-Pictometry International
+Incentives Solutions
+Advanced Manufacturing Services
+Kalypso
+IBM-Q1 Labs
+Cisco Meraki
+Bugcrowd
+D+H
+Sophos
+IBM
+3PHealth
+Cloud Technology Partners
+OneTrust
+Improbable
+Ocean Informatics
+Celusion Technologies
+ZTE
+Saviom
+Health Level Seven International
+Interpreta
+ADCC Infocad
+Iceotope
+HighJump
+Banco Original
+eG Innovations
+CLX Logistics
+Kinapse
+Roblox (Ecaray)
+ZincFive
+Qihan Technology
+Oberthur Technologies (OT)
+CSC
+Revionics
+Enghouse Interactive
+Arena Solutions
+r-evolution
+Celect
+Pyramid Analytics
+Salesforce BeyondCore
+Rise Acreo
+Blue Ridge Networks
+Penguin Computing
+Hexaware
+Wireshark
+Sensory
+Valencell
+Compro Technologies
+Vendavo
+Veritas Technologies
+ClinicalConnection.com
+Dome9
+KUKA Robot Group
+Adobe (Neolane)
+Beijing Teamsun Technology
+Prevedere
+Librestream
+The Robotics Institute at Carnegie Mellon University
+Omada
+T-Systems
+Swisslog
+Sivantos Group
+X2 Biosystems
+imec
+Interactions Corp
+RightPatient
+Delivery Agent
+Virgin Pulse
+Softline
+Chainalytics
+eLynx Technologies
+Igloo Software
+Noble Systems
+GE Global Research
+Alfresco
+Motivis Learning
+Vector Fabrics
+ePharmaSolutions
+PlainID
+Oracle Eloqua
+To deploy public web APIs:
+	Treat public web APIs as products. Create the role of API product manager to understand user requirements and communicate a clear roadmap.
+	Plan a business strategy for your public web APIs. Carefully consider which developers and &&  by extension &&  which users will engage them. Also consider how they can be exploited through web &&  Internet of Things (IoT) &&  mobile and virtual personal assistants (such as Amazon Alexa or Microsoft Cortana). Understand that public web APIs are often an entry point into a larger product or service.
+	Do not take it for granted that a public web API will be used. Establishing traction requires cultivating a community of developers &&  tapping into nearby communities &&  as well as rich documentation in a self-service developer portal.
+	Ensure that an API has an effective security strategy. This can be a combination of application delivery controller infrastructure &&  web application firewalls and dedicated API gateways. Bot mitigation is also key &&  since public web APIs must be protected from misuse that can lead to data loss &&  fraud &&  and skewed analytics.
+	Use full life cycle API management to manage the API through the entire process of planning &&  design &&  runtime deployment and versioning &&  through to retirement.
+To consume public web APIs:
+	Ensure that pricing is understood. API pricing may take the form of consumption-based pricing &&  tiered usage or subscriptions for example (see "Top 10 Things CIOs Need to Know About APIs and the API Economy" G00318859)
+	Take steps to ensure that your organization is protected from availability &&  security &&  and privacy issues related to consumption of third-party APIs. This can be achieved with a cloud access security broker or via an API Gateway for outbound API consumption
+Gaine
+VeloCloud
+Netskope
+Aviso
+UniKey
+Silver Peak
+Kollective
+Dell EMC (Greenplum)
+Quantum Materials
+Ballard Power Systems
+Swan Island Networks
+Evariant
+Quiq
+Acer
+UberCloud
+Axway
+Voci
+CloudAware
+Rescale
+Datang Mobile Communications Equipment
+Power Analytics
+Pharos Systems International
+Pyze
+Tableau
+SugarSync
+Gigster
+Cloudability
+Fossil Group
+Fiserv
+Dynatrace (Ruxit)
+ARxIUM
+Convercent
+DNV GL
+SwissLitho
+dunnhumby
+zSpace
+Madison Logic
+Oracle (Taleo)
+DriveNow
+Thin Film Electronics
+Evident.io
+Otovation
+SapientNitro
+EnergySys
+Webroot
+LockPath
+Verbio
+Ubisense
+Aerialtronics
+Allscripts
+CVIC Software Engineering
+IVD
+EIS Group
+Nixie Labs
+K2
+Gluu
+Avature
+Tapemark
+Sense Networks
+Availity
+Sysgo
+Montage
+MegaFon
+Intuit
+SCIO Health Analytics
+Arup
+Tessera
+InTouch Health
+CobbleStone Systems
+Scout RFP
+ASB Bank
+Learning Machine
+Reality Keys
+Xerion Advanced Battery
+Lechal
+Waters
+Cisco (CliQr)
+AHM
+MapR Technologies
+Mitratech
+Mob4Hire
+Mzinga
+Sierraware
+Gentag
+Brightidea
+CrowdTest
+Veriluma
+Sky
+Nasdaq BWise
+GigaSpaces Technologies
+Genome.One
+Ntive VMS
+Lecorpio
+S4GV
+Logikcull
+IBM (Watson)
+Fortscale
+Metasploit
+Regenovo Biotechnology
+Hoopla
+Schlumberger (Merak Peep)
+Alert Logic
+The Michael J. Fox Foundation for Parkinson's Research
+EtQ
+Rapid Insight
+Tableau Software
+IntraWorlds
+Addepar
+Aricent
+Podium Data
+QliqSoft
+Bennit AI
+Zugara
+Amdocs (Utiba)
+The LeSS Company
+Symphony Gold
+Drexel University
+Virtual Benefits Administrator (VBA)
+Xhale
+Angular
+Zentity
+IBM (FileNet Content Manager)
+Fuzzy Logix
+Suning
+Venustech
+BlockApps
+Nikola Labs
+Intershop Communications
+Lynx Software Technologies
+OpusCapita
+Lytx
+Ohpen
+Data Virtuality
+IBM Resiliency Services
+Concept Laser
+ACL
+Radiant Logic
+Tactician
+Campus Management
+Wipro HOLMES
+Terminus
+Progress Software
+DocASAP
+Oracle (Eloqua)
+Bkon Connect
+Kubra
+Phlexglobal (PhlexEview)
+Bloq
+FreedomPay
+Parsec
+NovioSense
+Microsoft Azure
+Cornerstone OnDemand
+InssTek
+Extreme Networks
+Socrates Health Solutions
+Lotame
+Experlogix
+Advizor Solutions
+Intacct
+Emerson Process Management
+Ontoforce
+Aon Hewitt
+British Gas
+ActionIQ
+Aurasma
+The University of Iowa
+4Sight Business Intelligence
+Kira Talent
+EnvisionTEC
+Li-Ning
+O3b Networks
+Jitterbit
+Layar
+New Relic
+Chain
+Mazor Robotics
+Citrix NetScaler
+MultiChain
+Altimetrik
+NXP Semiconductors
+Legrand (Ortronics)
+DigitalGlobe
+iTAC Software
+Autoliv
+erwin
+ITRenew
+OpsGenie
+Xiaomi
+Convergys
+Blackline Safety
+Collaborative Drug Discovery (CDD)
+Viu
+Walkera Helicopter Supply
+Agilent
+ZigBee Alliance
+Lucidworks
+Smart Material
+Arcadia
+Razorfish
+Carlson Wireless Technologies
+Ainemo
+Ontotext
+SecurityScorecard
+iRobot
+Tagwhat
+Magneti Marelli
+Videology
+The Moneyer
+Huawei
+ProgrammableWeb
+Total Immersion
+Zenta
+Insteon
+Cleo
+Telesofia Medical
+Egnyte
+Sparkhire
+IBM SPSS
+Dalim Software
+Radiflow
+Riegl USA
+Tether
+iSolve
+IFS
+Opera
+Centralite Systems
+aPriori
+Nucleus Software
+APPrise Mobile
+Avery Dennison
+Vocera Communications (Extension Healthcare)
+Progressive Group of Insurance Companies
+Protegrity
+Apptio
+Asite
+Toyota Motor
+Omniware Solutions
+Yahoo
+Veridium
+Agfa HealthCare
+Shopkick
+iOmniscient
+Enbala
+MyDrive
+Dataiku
+Sound Environmental Resources
+Qualtrics
+NGA Human Resources
+Texas Instruments
+IDS
+Rentsys Recovery Services
+Contact Software
+Blueliv
+Oracle Cloud Platform
+CliQr Technologies
+GPI Prototype & Manufacturing Services
+TidWiT
+Hexagon
+Insuresoft
+TandemSeven
+Schlumberger (Avocet)
+Vecna
+Sarcos
+SnapLogic
+Micro Focus (Attachmate)
+DataPro
+InsideSales.com
+NovuHealth
+Wireless Excellence
+QTS
+Allego
+1-Page
+Cornell (Town Crier)
+Bloomberg
+Tobii
+Online Insight
+HPI
+MindMaze
+QuScient Technologies
+Stanford University
+Contrast Security
+Facebook
+Frame
+Qognify
+FIS
+Influitive
+PetHub
+Rize
+Savigent Software
+Wonderbox Technologies
+Afinia 3D
+Axios Systems
+Realize
+Slock.it
+Shenzhen Kaifa Technology
+AlgoSec
+Coolcentric
+Halliburton (Aries)
+Xiaoi
+Gurucul
+Infosys (McCamish)
+Column Technologies
+Justlifecover.ie
+FalconStor
+X
+PageFreezer Software
+Touch Surgery
+LABTrack
+Innovative Research
+Hasbro
+Socrata
+C&W Business
+MediaPro
+Lithium
+Determine
+Civitas Learning
+Dips
+Simbe Robotics
+Datos IO
+AudioCodes
+Fiksu DSP
+Cyberbit
+Simeio Solutions
+Moskitos
+Cornell University
+BrandProtect
+Walkbase
+Northwestern University
+Flyability
+Dropwizard
+Verint Systems
+Oracle (Primavera)
+Microsoft (SharePoint)
+Nasuni
+NextVR
+Torry Harris Business Solutions
+ASC
+My Digital Shield
+P2 Energy Solutions
+Oversight
+Pradeo
+cosinuss
+Hulu
+Alachisoft
+Medidata Solutions
+Ripple
+Apple
+3DPrinterOS
+Evernym
+HealthEdge
+Cortex
+Capriza
+Roadmunk
+Thales e-Security
+senseFly
+Greensmith
+Tzunami
+Accenture (CAS)
+INF Robotics
+Shenzhen O-Film Tech
+Privatech Consulting
+SIMpill
+Forward Networks
+Cisco
+Quest (Foglight)
+NineSigma
+AgilQuest
+QuestBack
+visualfabriq
+Irdeto
+Freightgate
+Erlang Solutions
+Kyocera Document Solutions
+ParkWhiz
+Post-Quantum
+Schlumberger
+Print2Taste
+Linough
+Infinidat
+Cloud Raxak
+Mentor Graphics
+MCS
+Eurostep
+SupplyOn
+Ledvance
+RedCritter
+EVCARD
+Ascending Technologies
+Sugar CRM
+PrinterOn
+Parallels
+Greystone
+Certes Networks
+Integral Analytics
+EasyStack
+Aspect Biosystems
+AfterShokz
+PDWare
+Toray Group
+Arm Holdings
+Entuity
+Liquid Grids
+Samsung
+Fundamo
+Seagate
+Entrust Datacard
+MatsSoft
+Monterey Bay Aquarium Research Institute
+ioFABRIC
+Cambridge Semantics
+Leia
+NSFOCUS
+Tenable Network Security
+The Eye Tribe
+Securifi
+D-Link
+Ubanquity
+AirShip Technologies Group
+Lattice
+Luminoso Technologies
+Grey Jean Technologies
+BetterView
+Fortna
+Zephyr Health
+Coinbase
+Viavi
+Transplace
+Globalstar
+Relational Solutions
+Opalytics
+Targus
+pVelocity
+Persistence Plus
+Feedback Processi Logici
+QualiTest
+WNS
+Rapid Shape
+Digital Harbor
+VocaLink
+Microsoft Dynamics
+Zepo
+Microsoft Azure Marketplace
+Applied DNA Sciences
+Planon
+Arxan
+Wikitude
+i4i
+Everseen
+SenseAware
+AspenTech (ACCE)
+PowWow Mobile
+Dremel
+Eliza
+Westbury
+Axiomatics
+Merge Healthcare
+Agile Alliance
+Aspect Enterprise Solutions
+Perch Security
+Trax
+Antel
+Workboard
+Saffron (an Intel company)
+Intelligrated
+Krber Medipak Systems
+PMCS.helpLine Software Group (Catenic)
+Basecamp
+Swirlds
+Disciplined Agile Consortium
+passbrains
+Back Me Up
+CodeBroker
+Distil Networks
+CommScope
+Heroku
+Welch Allyn
+Baseline Telematics
+Shelfbucks
+NetEnrich
+Connexient
+Epic
+Optiv
+BeyondTrust
+TraceLink
+Solace
+Reflektive
+Qumu
+Range Networks
+IBM Watson Health
+Rubicon Project
+IBM BigFix
+PatientsLikeMe
+BT Global Services
+SEAMS
+LegalStar
+StorMagic
+Skygiraffe
+SFC Energy
+Pinterest
+CRMNEXT
+Progress
+Tata Consultancy Services ignio
+Coinomi
+Forte
+SurveyGizmo
+MyFitnessPal
+Artificial Medical Intelligence
+Toppan Printing
+Mangstor
+Verizon
+StretchSense
+Eracent
+LiquidCool Solutions
+Tieto
+University of Cambridge
+D2L
+Avizia
+SHL Telemedicine
+Cisco (AppDynamics)
+PrismTech
+CrowdSource
+SkyGiraffe
+Perfecto
+PreEmptive Solutions
+99designs
+Opus One Solutions
+DiscoverOrg
+roundCorner
+National Semiconductor
+Blue Sky Technologies
+St. Clair Interactive Communications
+Environmental Systems Corp.
+Edupoint Educational Systems
+JCET
+du
+Coupa Software
+Terra Dotta
+99Cloud
+Hoop.la
+Comcast
+Apperian
+Ethereum
+C2FO
+Optel
+Marketo
+Funnelback
+ERPScan
+Kezzler
+Pitcher
+Semarchy
+IFTTT
+Philips (Wellcentive)
+Belkin
+PTC (ThingWorx)
+Pivotal Software
+MoEngage
+Lockitron
+Nymity
+Dynatrace
+Evolven
+Wincor Nixdorf Group
+Clustree
+Zachman International
+Medallia
+Esteco
+Renesas Electronics
+Transporteca
+GT Nexus
+AT&T
+OCI
+Tripwire
+Savi
+Luxoft Holdings
+Orbcomm
+Job Market Maker
+Palo Alto Networks
+Romonet
+Aras
+Oraclize
+Alorica
+Alliance for Audited Media
+ebankIT
+Ionic Security
+Albert
+Deltek
+Psiori
+Orchestra Networks
+Hewlett Packard Enterprise (Fortify Software)
+Evergage
+Verisk Analytics (ISO)
+Intel Saffron
+Xillio
+Qumram
+MongoDB
+Omron
+HubSpot
+3esi-Enersight
+Reevoo
+Genospace
+Cengage Learning
+AIST (Japan)
+Digital Fuel
+HealthSparq
+Wrike
+Inside Secure
+Microsemi (formerly PowerDsine)
+YouTube
+Alien Technology
+Crimson Hexagon
+Alpha Software
+Ceridian
+Forward Health Group
+Aktana
+Aspect Security
+CallidusCloud (Clicktools)
+GS1
+White Ops
+Guavus
+CloudGenix
+CriticalBlue
+Blancco Technology Group
+Corel
+GQ Life Sciences
+GigaTrust
+Gallup
+Monax
+Living Actor
+Brocade
+Corinex Communications
+Millennial Net
+AgigA Tech
+PatientWorks
+Exepron
+Apervita
+Drive.ai
+Locus Technologies
+Verizon (AOL)
+Deutsche Telekom
+General Dynamics Information Technology
+Treasure Data
+Blaze Systems
+BeyondCore
+Security Innovation
+Envestnet | Yodlee
+Neuroelectrics
+Profitect
+SynerScope
+Scrum Alliance
+NowPow
+Achievers
+Roku
+AspenTech (PIMS)
+Glint
+Cavium
+Infoteria
+PXiSE
+BMC (TrueSight)
+HealthPrize Technologies
+Concentrix
+Havi Global Solutions
+Danske Bank (MobilePay)
+SK hynix
+Intercom
+Datum Technologies
+MakerBot
+LabArchives
+Praditus
+SonicWall
+Capax Discovery
+Yubico
+DiACardio
+Securonix
+Intel
+Totvs
+Sarah Cannon/HCA (Genospace)
+Lenovo
+VBrick
+Scio Health Analytics
+Indra
+Sepior
+Kitewheel
+Stanley Healthcare (AeroScout)
+Evatran (Plugless)
+Informzaschita
+Wanxiang Blockchain Labs
+Software AG
+Netenviron
+Ilika
+Podio
+Kawasaki Robotics
+Upskill
+Shanghai Baosight Software
+Fugue
+23andMe
+SignalFx
+Saltbox
+WaveMark
+MedyMatch
+JDA
+Lockheed Martin
+Pure Storage
+Vormetric
+Citibank
+3D Digital
+Vendemore
+KeyedIn
+Dematic
+Compal Electronics
+Beijing Blue Ocean Technology (OneAPM
+SunEdison
+Nectar
+EMC
+The Walt Disney Co
+inet-logistics
+EsperTech
+Advanced Telematic Systems
+Renishaw
+Bosch
+Project Objects
+Voxeet
+Canonical
+Vital Images
+Globoforce
+RSK
+Ultra
+Q2
+Zungle
+CloudMedx
+Estimote
+Bango
+AppDirect
+Deontics
+Barracuda Networks
+Tata Consultancy Services (BaNCS)
+SAI Global (Modulo International)
+Shoplogix
+Evrythng
+Primary Data
+NNIT
+AssessFirst
+Preparis
+Statistica
+Tigo Money
+Kallik
+TeleTech
+China Recycling Development
+PeerNova
+thinkstep
+Nuance
+Never Eat Alone
+Epson
+Fastlane
+Bsquare
+BiZZdesign
+Control4
+PayIt
+FlatWorld
+Entelo
+Clari
+Platocode
+Transphorm
+Nissan
+Snyk
+IBM (UrbanCode)
+Emailage
+HackerOne
+Citrix
+Experian
+Mindbreeze
+Syncplicity
+Priority
+PKWARE
+Lattice Semiconductor
+PrintWithMe
+Kudos
+Caliber Technologies
+Avalution Consulting
+iJET
+Isis Papyrus Software
+Oracle (Talent Management Cloud)
+Kongsberg
+Vipera
+WhiteCloud
+Board
+On Semiconductor
+OSRAM
+DWS Systems
+Redwire
+Shazam
+Sangfor
+Virtual Corporation
+Sequoia Project
+AirMap
+Wallaby Financial
+Centrify
+EOS Software
+Experfy
+FusionOps
+Energy Web Foundation (EWF)
+Trifacta
+Keylane
+Oildex
+car2go
+Unilog
+Madison
+Vivint
+GeoCue Group
+Global Learning Systems
+LAAS-CNRS
+Cloudyn
+Inventia
+Sartorius
+Tegile Systems
+Space-Time Insight
+Nimbix
+Intermedix
+Mifos Initiative (Mifos X)
+Deposco
+Deep Identity
+Nexenta
+Marvell Technology Group
+Mobileye
+Rocana
+OnStar
+Jibestream
+Aerohive
+i-exceed
+Mattersight
+Trello
+CitizenLab
+Technicolor
+Hyperledger
+Eyeris
+Georgia Institute of Technology
+DronaHQ
+Survey Analytics
+Tricentis
+VertexOne
+Planar
+Bractlet
+Arvato
+Munich Re
+InEdge
+Leica Microsystems
+Winshuttle
+Vue Software
+Include SD-WAN solutions on your shortlist if you're aggressively migrating apps to the public cloud &&  building hybrid WANs &&  refreshing branch WAN equipment and/or renegotiating a managed network service contract.
+	Pilot SD-WAN solutions in your branch offices to mitigate operational complexity and/or high WAN transport or equipment costs.
+	Include a diverse range of vendors in your SD-WAN shortlist &&  such as pivoting vendors and pure-play startups &&  along with established incumbents when evaluating SD-WAN products
+Impossible Objects
+Enterprise Architecture Center of Excellence (EACOE)
+Bank CIOs and digital business leads:
+	Accelerate your institutional knowledge of blockchain capabilities by including the technology in proofs of concept for new &&  low-risk services.
+	If your local bulk payment system is due for replacement within the next five years &&  monitor and challenge overzealous calls for it to be based on blockchain technology. Instead &&  aim for an implementation that will ultimately allow integration with the wider blockchain ecosystem.
+	If you already have access to a modern near-real-time payments infrastructure &&  undertake additional planning to allow integration with future blockchain deployments in the nonpayments space
+Nice
+Evolent Health
+Telus
+Scribe Software
+T-Mobile
+LifeBEAM
+UpClear
+NanoCarrier
+Striiv
+Thales
+Support Revolution
+IBM SoftLayer
+Kaseya
+NetApp
+TeleTracking Technologies
+Coalfire
+Doximity
+Workstars
+VSoft
+Aptean (Medworxx)
+Panopto
+EnterWorks
+QuintessenceLabs
+CompuCom
+Schellman
+EgoSecure
+Nakisa
+Tulip
+GridGain Systems
+StayinFront
+Datto
+Zebra
+800APPs
+Cape Networks
+Mashape
+Brocade Communications Systems
+Integ Enterprise Consulting
+Alight Analytics
+Agility Multichannel
+Asigra
+Xapo
+KNIME
+ComputeNext
+Perficient
+Valen Analytics
+Parexel
+Kali
+BlackBerry
+Interoute
+Pacific Knowledge Systems (PKS)
+SAI Global
+Factom
+Intershop
+nThrive (Precyse)
+O.C. Tanner
+deepsense.io
+MetricStream
+Hobsons
+Conversocial
+TrueCommerce
+Indeni
+QuintilesIMS (ClinicalResearch.com)
+NiceLabel
+Syniverse
+WareValley
+Zuora
+Smart Modular Technologies
+PerkinElmer
+PrecisionHawk
+Veeva Systems
+Sievo
+Baffle
+SwiftStack
+BT
+Medial EarlySign
+Prolucid
+University of Zurich
+Exari
+SES-imagotag
+FocusPoint
+Oracle (Projects)
+Augment
+Queen City Software
+MTS Systems
+Creative Virtual
+Whoop
+Armour Communications
+OrderDynamics
+Digital Guardian
+HyTrust
+Experitest
+Infor (Public Sector)
+CMNTY
+Hillstone Networks
+DigiCert
+Wake Forest Institute for Regenerative Medicine
+Nervous System
+BrightPlanet
+Bay Dynamics
+Vitria
+Colu
+Anodot
+Kenandy
+Centina Systems
+CRMnext
+Tact
+Aclara
+Vectra Networks
+Natero
+Sterlite Technologies (Elitecore)
+Angel Alerts
+OSIsoft
+Hitachi Data Systems
+BPI Technologies
+ProtectStar
+AspenTech
+Palo Alto Networks (LightCyber)
+PFSweb
+Descartes Systems Group
+Teleopti
+SAP Ariba
+Zendesk
+CIB Fintech
+AlienVault
+Raytheon Professional Services
+CenterTools Software
+Zhejiang Supcon information
+Aware360
+Robert Bosch
+Cardpool
+ActiveOps
+Sparta Systems
+Mitsubishi Chemical
+Jericho Systems
+Fujifilm
+Anthelio Healthcare Solutions
+42Gears
+adidas Group
+Hedvig
+AOL
+Fluid AI
+Decision Management Solutions
+Perpetuum
+Automattic (WordPress.com)
+Anki
+Creative Machines Lab
+Litecoin
+Interoute Communications
+Symbiont
+Trimble
+Tata Consultancy Services (TCS)
+DitaExchange
+Dematic Reddwerks
+Illumina (GenoLogics)
+Konica Minolta
+Jabil
+Ruckus Wireless
+Impartner (formerly TreeHouse Interactive)
+Delta Group
+Sentieon
+Questback
+Volvo Cars
+Google
+Patheon
+Maana
+ShieldSquare
+Dynamic Yield
+RiskVision
+Ping Identity
+SE2
+Signal
+Whil
+Infinio
+Ledger
+Blue Prism
+Artificial Medical Intelligence (AMI)
+Spire Technologies
+Arcadia Healthcare Solutions
+Nanorep
+Nivis
+TEKsystems
+Smartsheet
+Reebok
+GeckoSystems
+AnyClip
+Aisin Seiki
+Mixpanel
+Wandera
+Vyom Labs
+General Electric
+Kount
+Viking Technology
+Dahua Technology
+Asseco SEE
+Adaptris
+InsideView
+Kwikset
+POOL4TOOL
+E8 Security
+Zstor
+Selecta Biosciences
+Playment
+N2W Software
+Sisense
+Elastifile
+MobileIron
+GoPro
+Aeris
+DynaTouch
+Wolters Kluwer
+Optimal Workshop
+MTN Group
+EyeVerify
+Expensify
+Juniper
+Shopify
+Becrypt
+SugarCRM
+Whirlpool
+Volume.XO
+Data Innovations
+Mist Systems
+AppDynamics
+Honda
+Mitsubishi Motors
+IBM Interactive Experience
+Versus Technology
+OKCoin
+Oberthur Technologies
+Predictive Analytics Reporting (PAR) Framework
+Alcatel-Lucent Enterprise
+RightScale
+OpenAI
+sysdig
+Condeco
+Hays
+Infor (Starmount)
+Minitab
+Catalogic Software
+Foxconn Technology Group
+Thales Group
+Ecova
+Micro Focus (NetIQ)
+Avolution
+LogicJunction
+WellDoc
+Visier
+Featurespace
+Aqua Security
+Peccell Technologies
+MSoft
+Docker
+hiQ
+Boku
+Veracity
+Freeus
+ValueMomentum
+Empatica
+dinCloud
+InContext Solutions
+The LinkedIn case should attract the attention primarily of those companies and providers that have business interests in Russia &&  but are not physically present in the country. This is particularly common among international e-commerce businesses &&  social networks and some cloud service providers. If you consider Russia an important market for your business &&  you should:
+	Set up good communication with local authorities (e.g. &&  Roskomnadzor) so that you are aware of the key actions you need to undertake to comply. Also &&  get in touch with local providers that can assist international businesses in their compliance efforts. Study their related hosting and consulting offerings because those could potentially support your compliance efforts and initiatives.
+	Develop a client-focused communication strategy to address your Russian clients' possible concerns and questions &&  as those customers might also face sanctions through noncompliance.
+	Thoroughly assess your overall approach to compliance &&  balancing compliance-related investments with the risks of noncompliance. If adopting a wait-and-see approach &&  prepare detailed compliance plans in advance &&  to be implemented if the need arises
+Expertus
+GE Healthcare
+Kognitio
+Shotfarm
+HP Inc.
+ReaLizer
+Datapipe
+Hewlett Packard Enterprise (Fortify)
+Treato
+CDP Group
+Amazon Web Services (AWS)
+MultiTech
+Amazon Robotics
+Idbox
+Equinix
+Quick Base
+Brontech
+Gimbal
+NetEvidence
+First Data
+Unex Technology
+BioSignia
+SilkRoad
+UBTECH Robotics
+Rackspace
+Simbex
+Tunstall Healthcare
+u-blox
+CoreLogic
+Linux Foundation (Hyperledger)
+JustEnough
+Nexmo
+VMware
+SolarCoin
+Reduxio
+Paymium
+Zipari
+SAP (Business ByDesign)
+Periscope by McKinsey
+Domus Tower
+Virtual Instruments
+Medtech
+Xchanging
+Google (Apigee)
+Red Hat
+Prognoz
+Dimelo
+VidCruiter
+Innovation Asset Group
+Quanta Computer
+Rapid Models
+SciBite
+Automic
+Liquidware
+DCR Workforce
+OnProcess Technology
+Analog Devices
+Sonus
+AeroVironment
+frog design
+Storj
+Optymyze
+Impowersoft
+MSI
+Boothroyd Dewhurst
+Axonom
+CloudPassage
+Locanis AG
+Wipro
+Global Big Data Exchange
+Integral Ad Science
+Zipcar
+TARA
+Polecat
+riskmethods
+Smartlogic
+Enterprise Ethereum Alliance
+Mach7 Technologies
+Neotys
+SmartX
+Corent
+Opaq Networks
+DHL
+Space Data Corp
+Plum Voice
+Cargomatic
+Adlink Technology
+Travis the Translator
+Headwave
+Wasion Group
+Ushahidi
+Arcserve
+Smarter Grid Solutions
+Dorado Software
+Frequentz
+Virtual Heroes
+PagerDuty
+Icontrol Networks
+AppSheet
+Safran
+Baxi
+Fujitsu Semiconductor
+West
+Sciaky
+Majesco
+Air Enterprises
+Domo
+Countly
+Amber Road
+Tendril
+InsurIQ
+ForeScout Technologies
+Sesam
+The Sequoia Project
+Eaton (Cooper Power Systems)
+AngelHack
+Veeam
+IBM Rational
+Kantar Retail Virtual Reality
+IntelliGO
+Riverbed Technology
+Avangate
+MicroWorld eScan
+Aravo
+Nemaura Medical
+HBO
+GE Digital (Bit Stew Systems)
+Ultriva
+Nike
+Cyclos
+Versa Networks
+Microsoft (LinkedIn)
+Rohde & Schwarz
+Jagged Peak
+Drewry
+Healthify
+Greensmith Energy
+iWelcome
+Care Logistics
+Tekscan
+Imagination Technologies
+Autodesk
+4flow
+Pivot3
+Hangzhou H3C Technologies
+Allsopp Helikites
+Magicfirm
+E2open
+Intuitive Surgical
+Cloudnexa
+SAP Hybris
+Demandbase
+Applied Digital System
+Code42
+Gradient (minit)
+H2O.ai
+Filament
+Ingenu
+E8 Storage
+1366 Technologies
+Computacenter
+MasterControl
+Rest Devices
+Transversal
+CountryWatch
+PlanetEcosystems
+ChaiOne
+3D Bioprinting Solutions
+Converse.AI
+SoloProtect
+QNX
+Work Market
+onepoint Projects
+Allerin
+Riversand
+Tridonic
+Carbon
+Cincom
+Certara
+Car Charging Group
+Paul Sabatier University
+KeepKey
+WorkForce Software
+Vizio
+Clear Demand
+Purple Binder
+Microjet Technology
+agileSI
+Delphix
+Nintendo
+FastFit360
+Cox
+Nearby Now
+Pipkins
+Sales Performance International
+Appthority
+Intelex
+InfoTrellis
+Carto
+IPsoft
+Mambu
+Verisae
+Spigit
+Roadie
+L&T Infotech
+Intelligent InSites
+HiShop
+QuintilesIMS
+University of Tokyo
+SyncForce
+Pro Unlimited
+IBM (StoredIQ)
+BlackRidge
+Mega International
+Reflexis Systems
+OrcaEyes
+Ghostery
+Liaison Technologies
+Nanoco Technologies
+HP
+Meteor
+Ford
+Hire IQ
+Acuity Brands
+ProAlign
+Parking Panda
+Code4Health (NHS Digital)
+SocialChorus
+LRS
+Onit
+Hazelcast
+Tencent Holdings
+InvenSense
+LexisNexis Risk Solutions
+Prevalent
+Kantar Retail (XTEL)
+eServGlobal
+IRI
+Geosyntec Consultants
+DIgSILENT
+MVP Systems Software
+Jungo Connectivity
+Sentio
+BackOffice Associates
+GE Energy Connections
+Mtivity
+Google (DeepMind)
+National Payments Corporation of India (NPCI)
+PageFair
+Yale
+Auconet
+Anaplan
+Ancestry
+Qualcomm (Halo)
+Print Cheese
+Riverbed
+Midea
+Acutronic Robotics
+Knip
+Checkmarx
+Gap Systems
+Paradata
+Toyota
+Ivalua
+TetraScience
+AOL (Convertro)
+Reltio
+ResearchSpace
+Kryon Systems
+Pitney Bowes (MapInfo)
+TransCelerate Biopharma
+Siemens (eMeter)
+AuthorIT
+Vivonetics
+Itron
+Jive
+C3 Solutions
+Emerson (Roxar)
+STAR-TIDES
+UPS
+Qorvo
+Global Patient Identifiers
+Usablenet
+G24 Power
+BedWatch
+axial3D
+Progress (Rollbase)
+NantHealth (iSirona)
+TransCore
+Hypori
+Vida Identity
+Illumina
+Innoplexus
+Kore
+MaxGrip
+Seeing Machines
+ecobee
+Panasonic
+Model N
+Organovo
+Knockout
+No More Woof
+Trend Micro
+Redox
+Sparkcentral
+ViaSat
+Rustici Software
+Digital Asset
+Relayware
+Apache Zeppelin
+Carbon Black
+MathWorks
+Intellivisit
+Wave
+One2Team
+Osaka Institute of Technology
+Truckstop.com
+Simflofy
+Aria
+Tencent
+WePow
+MetaGeek
+Bloom Energy
+Dell PowerEdge
+Mtell
+iModules
+Strava
+Dolbey Systems
+Vivify Health
+Prieto Battery
+Oracle (Maxymiser)
+Noosh
+Eurotech
+Telecom Italia
+Changan Automobile
+Intellum
+Siemens (Energy)
+vitaphone
+Voalte
+Appian
+MyScript
+Planorama
+Apium
+Vidder
+Xilinx (DeePhi)
+ClevX
+Softheon
+SteadiDrone
+Black Duck Software
+STMicroelectronics
+CoreSpring
+Paxata
+Syapse
+Branding Brand
+HighRoads
+LiveSafe
+BioCelerate
+Genesys (Utopy)
+Medtronic
+Yuneec
+Zcash
+Rant & Rave
+Avaya (Aurix)
+August
+Lapetus Solutions
+Algorithmia
+Trusteer
+Stonebranch
+Alphabet (Verily)
+HID Global
+HealthPlan Services
+Icaro Tech
+Blockpharma
+WorkForce Management Software Group
+Amphenol Advanced Sensors
+Brother
+Polycom
+MemoMi Labs
+Andesa Services
+Raytheon
+PPdai
+Allied Telesis
+WhiteHat Security
+Life.io
+EnerDel
+Applied Research Associates (Virtual Heroes)
+A3M Mobile Personal Protection
+ThoughtWire
+SpiderCloud Wireless
+Smart Communications
+China TravelSky Holding Company
+Lightning Network
+Genpact
+Digital Stakeout
+Ad Astra Information Systems
+XebiaLabs
+Verifly
+Integrated Research
+Quark
+Kronos
+PathSolutions
+HealthCombix
+ASML
+Beaker
+PerimeterX
+IBM (Fiberlink)
+Topcoder
+IBM Tivoli (Maximo)
+Clevest
+Apache Hadoop
+Fujitsu
+SAP (BusinessObjects)
+Groupon
+PointNurse
+Iperion
+IBM Bluemix
+Thermo Fisher Scientific
+Halo
+Nuance Communications
+Quantivate
+IBM Watson Commerce
+BloomReach
+Forcepoint
+Worldsensing
+Barkly
+Tompkins International
+Zyxel Communications
+Hubwoo
+CMG
+Positive Technologies
+Actiance
+Driveway Software
+General Dynamics
+Motiv
+Apcer Life Sciences
+Mobilize Systems
+Qwince
+ActiveViam
+FPX
+Ingram Micro
+Wi-Charge
+Qmarkets
+IBM (Cognos Analytics)
+IBSENtelecom
+Point Inside
+MAMEM
+ISO
+Bitcoin.org
+Aerotel Medical Systems
+CA
+BearingPoint
+Braincube
+Descartes
+LLamasoft
+Blockverify
+PTC (Thingworx)
+Galleria
+Enlighted
+loyyal
+Red Hat (3scale)
+Visual Mobility
+HighGround
+Sound World Solutions
+Interactions
+Tempered Networks
+IBM (Unica)
+Healthwise
+dscout
+Saama
+ClearView Continuity
+OnSolve
+i2b2 tranSMART Foundation
+CyberX
+InSTEDD
+Ossia
+Aptos
+Field Nation
+Instart Logic
+IIT Software
+Sinequa
+Digital China Holdings
+SapientRazorfish
+Aveva
+Salesforce (BeyondCore)
+DataLine
+Azalead
+Sustainable Minds
+First Insight
+WSO2
+Automatic
+Kofax
+Misys
+Verisk Analytics
+Marathon Engine Systems
+OpenText (GXS)
+Saguna
+Bosch Group
+Siemens Mobility
+OpenNebula
+HashiCorp
+Critical Manufacturing
+Check Point Software Technologies
+Samsung Display Solutions
+ProdPad
+Curo
+Sprout Social
+IBM Unica
+Globalfoundries
+Open Systems International (OSI)
+EnerNOC
+Capita
+Candi Controls
+Nutanix
+Blackrock Microsystems
+Guidewire
+Sentient Technologies
+Luware
+AiRISTA Flow
+2U
+j2 Global
+Baidu
+Tapad
+Infragistics
+Graphcore
+Accton Technology
+DataCore Software
+Aria Networks
+tado
+Telstra
+Fuze
+Softek Solutions
+Sensoria
+Ashfield Pharmacovigilance
+Tufin
+Inovx
+Capsule
+Concentra
+KellyOCG
+Arcam
+Skava
+Digital Defense
+Hewlett Packard Enterprise
+CyrusOne
+University of Cambridge Computer Laboratory
+Route1
+Certona
+Clark
+Ericom Software
+Optum
+InMoment
+OATI
+Close-Up International
+Claroty
+Altair
+FedEx Express
+Jamcracker
+Parasoft
+VMware (AirWatch)
+CyberSource
+McGraw-Hill Education
+AgreeYa Mobility
+AgilOne
+BlueCat
+EVAM
+Macom (AppliedMicro)
+GE
+Hyundai (Blue Link)
+Bug Bounty HQ
+ServiceMax
+Vapor IO
+Numerai
+Rational Enterprise
+Avola
+AgilePath
+Tripp Lite
+Shenzhen Sunwin Intelligent
+Xitore
+InterSystems
+Bigstream
+Tecnomatrix
+Maxim
+Bitcoin
+Anomali
+Cryptape
+Peakon
+ScaleOut Software
+Open Compute Project
+Ctera Networks
+U.S. Air Force Research Laboratory
+DataMotion Health
+PolyCore Software
+iQor (HardMetrics)
+Vinli
+Dicom Systems
+Orbus Software
+Vemo
+Networks in Health
+Next IT
+Netscout (Arbor Networks)
+UniquID
+SpiceCSM
+Continuity Logic
+Beijing DBSec Technology Co.
+Avnet
+Linear Technology
+Agilent Technologies
+Cureatr
+Cisco Jasper
+Japan Display
+BMW
+Octo
+Hubio
+Identropy
+Netmagic
+Mozilla
+TopOpps
+Fujikura
+Webscale
+Semantra
+Haven
+Reprise Software
+IllumiCare
+Lime Microsystems
+LexisNexis (Life Sciences)
+Ant Financial Services Group
+Netflix
+BMC (TrueSight Pulse)
+Talkwalker
+OpenSky
+New Balance
+Kibo
+Sapiens International
+Drupal
+Evolven Software
+Lisk
+Upstream Commerce
+Waratek
+Sparkling Logic
+Pole Star
+RTI
+Temenos Group
+Qualcomm
+Hyland (OnBase)
+Centraya
+Price f(x)
+IBM (SPSS Software)
+AnswerRocket
+Oracle
+Kantar Retail XTEL
+Global Healthcare Exchange (GHX)
+Gigamon
+Cybozu
+Dassault Systmes
+Vidyo
+Iron.io
+MicroStrategy
+NC4
+Realizer
+Waverley Labs
+BigML
+Bright.md
+STEALTHbits
+CloudHealth Technologies
+Verb Surgical
+Signavio
+Tessellate
+Zenoss
+PaySpan
+Cigniti Technologies
+AstraZeneca
+SafeBreach
+Ansys
+Epicor Software
+Entsia
+HPE (SimpliVity)
+FacePhi
+Fetch Robotics
+PaperCut
+Armis
+BeAM
+BrainChip
+German RepRap
+BirchStreet Systems
+Qlik
+MDLive
+Onshape
+Elemica
+Gigwalk
+inSided
+froglogic
+Jama Software
+Thomasnet.com
+Nasco
+Massivit 3D Printing Technologies
+PNT Data
+Realfiction
+Proplanner
+Kisters
+SirionLabs
+WorldViz
+Cogiscan
+Dragos
+Thomson Reuters
+NanoScale Systems
+GE Digital
+Halliburton Landmark
+trizic
+HyperScale
+Crowdly
+Higher Logic
+Layered Insight
+Waverly Labs
+Base
+Tegile
+GE (Current)
+Bigtincan
+Navex Global
+openBOM
+Lexalytics
+ManagerPlus
+GestureLogic
+Automation Anywhere
+Red Box Recorders
+Shipyard
+Microsoft (Azure)
+Methode Electronics
+Global Knowledge
+BCG
+AlertEnterprise
+Continental
+Filament Group
+MyAppSecurity
+Dotmatics
+Numenta
+Ambient Devices
+Fasoo
+Resolver
+Airbiquity
+CloudCheckr
+Tacton Systems
+ActiGraph
+Sinopec
+Sentryo
+Inetco Systems
+Enthought
+Pinc
+Happiest Minds Technologies
+1E
+PayPal
+NetSuite
+Eleksen
+Tabernus
+NxtGen
+arivis
+IBM Global Process Services
+Meditech
+NeoGrid
+Liquidia Technologies
+BitTorrent
+Global IDs
+Colibrium
+Applivery
+WideOrbit
+Experticity
+Materialise
+Nedap
+ezDI
+eMite
+EE
+Aria Systems
+National Oilwell Varco (NOV)
+prevero
+MyBiz
+Virtual Solution
+Warranteer
+Log-Net
+GenSight
+ASG Technologies
+Misfit
+Giesecke & Devrient
+Extole
+Affectiva
+Deliv
+Honeywell (Elster)
+Skyfactor
+Global Rescue
+Hughes
+IBM (Maximo)
+VoltDB
+One Door
+Hashed Health
+Meganews Magazines
+Cloudflare
+Sunbird Software
+VTEX
+Advantest
+Reflektion
+Onapsis
+BBC
+Accelare
+Colasoft
+S&C Electric
+Massachusetts Institute of Technology (MIT)
+SmartAction
+Quintiq
+GE Intelligent Platforms
+Porzio Life Sciences
+Derby
+ResponseTek
+Kenzen
+Unitrends
+Microsoft
+Ajilon
+PrisymID
+Mocana
+Palantir
+Plexus Worldwide
+Cognizant
+ApiOmat
+Stick-N-Find
+Bizible
+VitalConnect
+iovation
+Fitbit
+UpGuard
+Plex Systems
+None
+Datacastle
+Competitive Capabilities International
+Terranova
+Open iT
+Solstice
+CommercialTribe
+BigDoor
+Centerity
+GeoMetrix Rail Logistics
+MartJack
+SAP (SuccessFactors)
+Quest Diagnostics (ChartMaxx)
+IdeaScale
+Grid-Tools
+QNX Software Systems
+Pharmchem Engineering
+ADP
+Transfix
+KPMG
+Rittal
+Altavian
+Datiphy
+ETT Solutions
+Encrypgen
+SAP (hybris)
+Progress (DataRPM)
+Ipanema
+QualiWare
+Harman
+Verisign
+Turi
+Planview
+Interactive Medica
+Starlims
+Aurea
+Gemalto
+EcoSys
+McObject
+High Fidelity
+Avetti Commerce
+Via Technologies
+Empyrean Benefit Solutions (Bloom)
+Apache Software Foundation
+Textio
+AgileBio
+NQ Mobile
+Gnosis
+Cyberdyne
+Staywell
+BSI America
+Quantenna
+VictorOps
+Collibra
+Agnitio
+Unirisx
+Survalent Technology
+IDBS
+Sumo Logic
+Maldaba
+Docurated
+harmon.ie
+Omnilert
+Sharp
+Universal Robots
+Quantiacs
+Beijing Eco-island Science and Technology
+Cato Networks
+Legisym
+PeopleDoc
+Verint
+Whil Concepts
+Amazon Web Services
+SUSE
+Microsoft (Revolution Analytics)
+Symantec
+Pelagicore
+EasyVista
+ambiotex
+PwC
+The VLF ELF Radio Research Institute
+Obeo Health
+Robo Brain
+Advanced Solutions Life Sciences
+Ebix
+Looking Glass Factory
+Tell Me Dave
+LeanData
+Wallix
+Bpm'online
+Infoblox
+Audiology Systems
+Rostelecom
+Magic Software Enterprises
+Office Graph)
+Transportation/Warehouse Optimization
+TIBCO Software
+Ozlo
+Pros
+CluePoints
+Mitel
+Getaround
+HealthAxis Group
+ThruVision
+SailPoint
+Linguamatics
+Zellabox
+CPA Global
+Outpost24
+GetInsured (Array Health)
+CGG
+ideaken
+Jiff
+Blue Software
+Nuubo
+Kaazing
+Ingentis
+Atmel
+OpenConnect
+Plex
+SafeData Group
+mplsystems
+SunView Software
+Aurea Life Science Solutions
+Komprise
+Brillio
+microGen Systems
+Bowers & Wilkins
+Reply
+GestureTek
+additiv
+Qardio
+unblu
+Maxta
+Trace One
+Carr Technologies
+Lincor Solutions
+Texada Software
+GenieMD
+Multiply Labs
+Everlaw
+Plastic Logic
+Metaio
+T-Mobile US
+Centri Technology
+Axway (Vordel)
+Antenova M2M
+Acronis (GroupLogic)
+Heap Analytics
+Right On Interactive
+HP Inc
+Nielsen
+BehavioSec
+Zycus
+Advanced Control Systems
+Bankgirot (Swish)
+Clarive Software
+Smart Sparrow
+Unify
+NGK
+Gainsight
+Shapeways
+Ericsson (MetraTech)
+One Identity
+The Sixth Flag
+InCrowd
+Sciforma
+Plivo
+Bprotocol Foundation
+Triple Point Technology
+Digitate
+voxeljet
+F-Secure
+DivvyHQ
+7Geese
+Selerant
+Perpetua Power Source Technologies
+Prodways
+Node.js
+Redwood Software
+Bentley Systems
+i.materialise
+SmartBear
+Lookout
+Vision Critical
+CPSI (Healthland)
+ProcessModel
+IndyLab VR
+MIR3
+Dialogic
+Sharegate
+Myontec
+Wholesome Wave
+Comprehend
+fSONA
+Scalr
+Seven Bridges
+Birst
+Emerson
+MC10
+PortSwigger
+Tata Communications
+Validated Cloud
+Google (Google Maps)
+TeVido BioDevices
+N2N Services
+ShoreTel
+Nicus Software
+Centerity Systems
+byFlow
+Accela
+Siemens Medical Solutions
+ThreatQuotient
+Solix Technologies
+HPE Security - Data Security
+Degreed
+ReWalk Robotics
+CommonWell Health Alliance
+Yahoo (Flurry)
+Slack
+Leap Motion
+GE Oil & Gas
+Lighthouse
+Prevoty
+Trimble Mobile Solutions
+CGI
+Bankgirot
+Bose
+Tapjoy
+Dimensional Insight
+IBM (Cram Software)
+WNS Global Services
+Intergraph
+Aquafairy
+Ayla Networks
+Twistlock
+CareTech Solutions
+Sagemcom
+Masergy
+Honeywell
+Bastille
+Keyence
+Cielo
+rfXcel
+Cisco (StealthWatch)
+BigID
+Sidetrade
+Wazoku
+Dynaplan
+HP (Aruba Networks)
+xG Health Solutions
+Tesisquare
+Eaton (CYME International)
+TXT e-solutions
+Intel (Saffron)
+Kana (Lagan Enterprise)
+RadView
+Belden (Tofino Security)
+ShapeShift
+Tamr
+Withings
+Integrity Applications
+DataDirect Networks (DDN)
+nScrypt
+DestructData
+Opmantek
+The Automotive Group of Continental
+Claritas Genomics
+LiveOps
+WekaIO
+Comptel
+Dolby
+Nubo
+Northcraft Analytics
+Pivotal
+Hewlett Packard Enterprise (Aruba)
+RxLogix
+Alchemy VR
+Daimler Group
+Powerthru
+Sitel
+Kochava
+University of Texas
+3D Systems
+UMT360
+MedRec
+MicroPact
+Knowesia
+Favendo
+Salary.com
+MaidSafe
+Highspot
+Mechdyne
+Sculpteo
+Armor
+Cirba
+IXcellerate
+KTS Wireless
+Algebra
+Klixel8
+Nalpeiron
+Mindtree
+Fraunhofer Institute for Photonic Microsystems (IPMS)
+Joyent
+AWcloud
+Netbiscuits
+Munich Re Group
+RSD
+Tendermint
+Entercoms
+Gnubila
+InspecTools
+Fidor TecS
+Carestream Health
+Tyler
+Apstra
+Innova Technology (Protag)
+Tornado
+Valve
+Vonage
+ERT
+DrFirst
+XpoLog
+CFEngine
+MaritzCX
+Open Utility
+Volvo
+Swirl
+SecurEnvoy
+Mavrck
+AlertGPS
+Apprenda
+Bernoulli
+PlotWatt
+Radial
+Atento
+Shenzen Padgene Technology Co.
+Coupons.com
+Infineon Technologies
+MDLIVE
+inVentiv Health
+Concord Technologies
+Sahana Software Foundation
+Telia
+RedSeal
+American Express
+Better Mobile Security
+Beeva
+Mendix
+Akamai
+LVX System
+ADT
+Pricer
+Smowl
+lu.com
+TeachPrivacy
+SundaySky
+LightPointe Communications
+Centrifuge Systems
+Catbird
+Ekahau
+ZL
+Adesto Technologies
+BlockMaster
+C3 IoT
+Lattice Engines
+LumApps
+Xactly
+Swrve
+Microsoft Azure App Service
+Security First Corp.
+Conduent
+Everspin Technologies
+LG Display
+Datanyze
+Aegis.net
+Quality Systems International
+PGi
+Mastercard
+Sonde Health
+Arcon
+Hella
+ShieldX
+Independa
+Vidyard
+QPR Software
+Saudi Industrial Services Company (SISCO)
+Lithoz
+ESDS
+Integrating the Healthcare Enterprise
+Dell EMC
+Enrollment Rx
+Empirix
+PowerAdvocate
+IntelliVision
+Apteligent
+DBSync
+8x8
+G2G3
+CtrlS
+Brightcookie
+Blue Yonder
+Cybric
+84codes AB
+Mid
+Inductive Automation
+Indego
+Matrix42
+M-Files
+Fresh Consulting
+EvolveIP
+Virtually Better
+Baker Hughes
+MediaPlatform
+OpenIO
+Neusoft
+Protected Networks
+Knewton
+Ideo
+Asset Disposal & Information Security Alliance
+Mettler Toledo
+Phemi
+Guardicore
+OpenLM
+Pegasystems
+Community Energy Solar
+CogBooks
+Kaminario
+NeuroCall
+Rage Frameworks
+CytImmune
+TEOCO
+UbiMS
+Avaya
+JouleBug
+Verscend
+iContracts
+Eeonyx
+GuardSquare
+Wibu-Systems
+Meta4
+Stanson Health
+ASE Group
+DXC Technology
+Xaxis
+MapLarge
+CareTrends
+Fuji Pigment
+IBM Security
+NIC
+Workato
+Shape Security
+MindTouch
+eg solutions
+Tumblr
+NaviSite
+GamEffective
+Taulia
+Arotech
+Hortonworks
+Newline Interactive
+Force Impact Technologies
+Stefanini
+Microsoft (Delve and Office Graph)
+Mercado Eletronico
+Upland (ComSci)
+ITM Power
+Security Compass
+Kazoup
+Catchpoint
+Mesosphere
+Elastic (Elasticsearch)
+Intuo
+Spirae
+CloudEndure
+RSA
+Reputation.com
+Radware
+Sonitor Technologies
+Milsoft
+Saife
+Infosys Nia
+Basware
+Decision Lens
+Awingu
+LTI
+Ivanti
+Zilliant
+FairWarning
+MindMatters Technologies
+Signal Sciences
+LO3 Energy
+Bunchball
+PAS
+StereoLOGIC
+FirstRain
+AIA Vitality
+Provalido
+Allegis Group
+Atlantis
+Ellucian
+Teamwork.com
+Brandwatch
+Qure.ai
+Attunity
+Atlassian
+Ringdale
+Scality
+Black & Veatch
+VersionOne
+Group Dynamics
+Cloudian
+Harris Computer Systems
+QAD
+Maxwell Technologies
+Bio3D Technologies
+Jibo
+TomTom
+beqom
+Globe Telecom
+TokenEx
+ClickFox
+Soltra
+SunFriend
+Caspio
+CognitiveScale
+NextHealth
+Fidelis
+CS Disco
+Barclays
+ICTroom
+Petro-CyberWorks Information Technology (PCITC)
+ip.access
+Sitecore
+Legal Suite
+Quest Diagnostics
+D3 Banking
+Envizion
+Petrostreamz
+PQ Systems
+BMI System
+Dell-EMC
+Google (contact lens)
+GreyOrange
+CoreOS
+Johnson & Johnson (Sedasys)
+Hill-Rom Holdings (NaviCare Nurse Call)
+7 Signal
+Ashcom Technologies
+UMCloud
+IBM Watson Analytics
+Cartasite
+Sage
+Augthat
+camLine GmbH
+CSG International
+Dimension Data
+Rsam
+Ayehu
+Orpheus
+Digitsole
+Apica
+Vantiq
+Rohm Semiconductor
+Gwangju Institute of Science and Technology
+CollabNet
+Excelero
+CA Technologies (Rally Software Development)
+Mint
+Imec
+Amazon Chime
+Adasa
+Slalom
+AgilePoint
+Alibaba Group
+Calabrio
+Alliance Health
+WooBoard
+Proofpoint
+Cambridge Display Technology
+ProjectManager.com
+NewStore
+JPMorgan Chase
+Nvidia
+Samsung Artik
+Adecco Group
+Equinox Software Design
+Optix
+Huaxin Environmental
+Nonin Medical
+TIBCO Software (LogLogic)
+Teladoc
+Nasdaq
+Daqri
+Flkt Woods
+Lumatrak
+CA Technologies
+Celcom
+Digital Insight (an NCR company)
+QPC
+OpenLogic
+Loom
+TriLumina
+Phinergy
+Green Revolution Cooling
+Algar Tech
+Interact
+Blue Link Software
+Localytics
+Cognitive Technology (myInvenio)
+PredictSpring
+NuData Security
+Logi-Serve
+Quantum
+Dataguise
+Supermechanical
+ACI Worldwide
+Royal Bank of Scotland
+Modelon
+MoneyGram
+Alexander Mann Solutions
+Health Dialog
+Unity Ads
+Santander
+KakaoTalk
+Jacada
+Receptive
+Thingsquare
+AlertMedia
+Ayasdi
+GridEdge Networks
+iMeet Central
+Shipwise
+OptiCool Technologies
+TestPlant
+Samsung Electronics
+Jawbone
+Oculus
+Founder Group
+Mozy
+FutureAdvisor
+SS8
+Seismic
+HoloLamp
+Cormant
+Cubuslab
+nke Watteco
+LabWare
+Copperleaf
+Belden (Hirschmann)
+KoBoToolbox
+Webalo
+InsFocus Systems
+Micron Technology
+RPM Innovations
+Idomoo
+Cohesity
+Mintigo
+IBM (Tivoli)
+Apply Mobile
+Cellwize
+Teleperformance
+Oracle (Siebel)
+Eptica
+CountWise
+Oceanwide
+OpenStack
+No Magic
+NeuVector
+Appfluence
+Medprin Biotech
+National Decision Support Company
+MIT
+Commvault
+Northwest Analytics
+Everbridge
+Progress DataRPM
+Gorilla Toolz
+Visiba Care
+Cyberhawk Innovations
+OpenLink
+Desktop Alert
+Mphasis (Wyde)
+Qik
+ContentKeeper
+VigiLanz
+MEMSIC
+Wax Digital
+Benefitalign
+FullArmor
+Relex Solutions
+SWIFT
+M*Modal
+Cuculus
+Xogene
+Centri
+Qualcomm Life (Capsule Technologie)
+ToutApp
+Bioclinica
+Tradeshift
+Computerized Assessments and Learning
+Citrix (XenMobile)
+HIPAAT
+openEHR Foundation
+Streetline
+Harris Healthcare (QuadraMed)
+Oracle (BlueKai)
+HT2 Labs
+WeComply
+Netcracker
+Energous
+Wallmedien
+HealthMyne
+Vindicia
+Gade Technology
+Teradata
+Affinaquest
+Magnitude Software (Kalido)
+Stibo Systems
+XACT Robotics
+Sight Machine
+Projectplace
+Informatica
+Onename
+Friss
+Motorola
+EverString
+Sandia National Laboratories
+Seven Lakes Technologies
+Rapid7
+Igloo
+SES Networks (O3b Networks)
+Tech Mahindra Business Services Group
+TIBCO Loyalty Lab
+Cloud Elements
+PhatWare
+verve
+[24]7
+Dianrong
+BlueJeans Network
+Uniphy Health
+Energistics
+Leadspace
+Neocase Software
+Digital Reasoning
+SpecPage
+Hugin Expert
+Halfpenny Technologies
+MarkLogic
+PokitDok
+Olapic
+NICT
+Gurobi Optimization
+Fusion Risk Management
+MedeAnalytics
+Infrascale
+1010data
+China Mobile Communications
+Revulytics
+Vocera
+Quest
+Connotate
+Jenzabar
+Clinical Ink
+Couchbase
+Configit
+Pitney Bowes
+Cheetah Mobile
+Avigilon
+SunPower
+Verisk Analytics (Verisk Insurance Solutions)
+Salesflare
+BitWave Semiconductor
+EnSync Energy Systems (formerly ZBB Energy)
+Skycatch
+Visual IQ
+Arria NLG
+Nlyte Software
+Magento
+UserTesting
+Hiperos
+Varnish Software
+Aptos (ShopVisible)
+Automattic
+Cadenas PARTsolutions
+Spanning
+Sermo
+Vistex
+Acunetix
+iPipeline
+Sonda
+Panasas
+LG CNS
+String Labs
+Interset
+Enphase
+Kroll Ontrack
+Lightbend
+Cyberinc
+Assured Information Systems
+Arburg
+Particle
+RedEye
+Prove & Run
+Geonetric
+3C Software
+Electric Cloud
+Imaginatik
+LeanKit
+NuBits
+AsiaInfo
+Spoken
+LaunchPoint
+ChargePoint
+ProPay
+Scaled Agile
+Tecsidel
+GuardiCore
+Youzan
+Fluttrbox
+Inedo
+Reward Gateway
+Content Guru
+Catchoom
+Lumension Security
+Antares Vision
+Citrix Online
+Boomerang Commerce
+Sharp Electronics
+Tecan
+Weibo
+Viridis3D
+SureClinical
+Moovweb
+OpenMake Software
+Kingston
+PI Solutions
+Confirmit
+Crunchr
+Minio
+Healthcare Bluebook
+AspirEDU
+Elementum
+HealthWatch
+ProductPlan
+Drawbridge
+Nanosys
+EPC
+DenyAll
+Blackbaud
+HP Inc. (Aurasma)
+WeSpire
+Splunk
+Adents
+Ehrhardt+Partner Solutions
+Granta Design
+Skytap
+LichtBlick
+Actua (Bolt Solutions)
+Symfact
+Divergent3D
+Limeade
+ID Experts
+GrammaTech
+TalentSoft
+Simple Energy
+Wal-Mart
+Hitachi
+Cogito
+Sur3D
+Dell
+Salesforce (FinancialForce)
+Freightos
+Wizdom
+Personal Neuro Devices
+The Most Group
+Dash
+AppSec Consulting
+Iridium
+Avere Systems
+Nuage Networks
+GeoDigital
+NextEngine
+PeraHealth
+BOCO Inter-Telecom
+AppSense
+Embody Orthopaedic
+Varonis
+NetBrain
+Rimini Street
+Crealogix Group
+Peloton
+Active Navigation
+Exilant
+Tungsten Network
+Local Motion
+appsFreedom
+Insurity
+Haufe Group
+vTime
+Eaton
+Under Armour (MapMyFitness)
+BridgeHead Software
+WiseTech Global
+Booz Allen Hamilton
+Mink
+PeopleFluent
+Emcien
+IBM (Fiberlink Communications)
+EAB
+ArisGlobal
+Adtran
+Panduit
+SAS
+MemCachier
+Geneia
+ZCash
+PeopleSoft
+Arimo
+Airware
+adidas
+NTT Docomo (MOAP)
+Cobalt
+Workstreampeople
+Artesian
+Vaultive
+Wind River
+vArmour
+ArangoDB
+Lexmark (Perceptive Software)
+Brainspace
+Dun & Bradstreet (Avention)
+NoteBookMaker
+Artificial Solutions
+Zscaler
+CEBOS
+Serena Software (Micro Focus)
+Scope AR
+DuPont
+Wistia
+IDMWORKS
+IBT
+Project Jupyter
+OpenBazaar
+People Power
+Micron
+ClearSlide
+Integro
+RSI Logistics
+Gemtek Technology
+Nerdio
+Horizon Fuel Cell Technologies
+Twonas
+Bosch Software Innovations
+Trail of Bits
+Maveric Systems
+Blockchain Insurance Industry Initiative B3i
+Aptean
+Paragon Solutions
+OneWeb
+Pioneer
+Athos
+Kemp Technologies
+Pistoia Alliance
+Thinfilm
+Afiniti
+Titan Medical
+SmartCap Technologies
+Shenzhen Clou Electronics
+Janrain
+Acumatica
+Symbility
+Arago
+Nano Dimension
+SolarWinds
+DataRobot (Nutonian)
+Tevron
+IBM (DemandTec)
+Mercedes-Benz
+ZF Group
+Nxtra Data
+Aha
+Omnitracs
+Dynamic Signal
+DMG Mori
+OSI Software
+BlueCava
+Here Technologies
+Yseop
+Big Switch Networks
+Caringo
+Gemalto (SafeNet)
+LogicVein
+Pitney Bowes Software
+Conga
+Digi International
+Telefnica
+ArrayComm
+Strategic BCP
+Impinj
+Exabeam
+CG Automation
+Whitepages Pro
+Level 3 Communications
+Exco InTouch
+Haier
+Intralinks
+SAP (ERP)
+nuTonomy
+Medicity
+Planzone
+WorkAngel
+Establish
+GTB Technologies
+eGain
+Esker
+Aryaka
+TrackVia
+Ulis
+Synthesio
+NEC (Netcracker)
+Branch Technology
+Ponton
+GEP
+Sonatype
+SK Telecom
+Cyphort
+Twin Oaks Computing
+Bernoulli (Nuvon)
+Cambrios
+cloudBuy
+Giroptic
+XYFindables
+Owl Cyber Defense Solutions
+Eos Systems
+ProjectCenter
+IBM Global Technology Services
+Augmate
+Blue Health Intelligence
+GitHub
+CLO Virtual Fashion
+Leica Biosystems
+Perfect Commerce
+Datameer
+T-Pro Solutions
+BYD
+TMW Systems
+Macrodyne Technologies
+WiseWear
+Fuel Cycle
+LG
+Google (Cloud Platform)
+Kinetica
+Hisense
+Alta Devices
+IBM WebSphere Commerce
+Freelancer.Net
+Cloudera
+Tictrac
+Health Fidelity
+Matter and Form
+ManpowerGroup
+Mobike
+IBM Watson
+Legacy Data Access
+Duo Security
+FinancialForce
+American Institutes for Research
+Push Technology
+Emerson Network Power
+goTransverse
+6sense
+Symphony EYC
+Geezeo
+Smarsh
+NantHealth
+LogicMonitor
+Change Healthcare
+Motorola Solutions
+Cision
+Login VSI
+SAIC Motor
+Pixel Forensics
+Continental Automotive Group
+Nix
+Bankymoon
+Cerego
+Medtronic (Zephyr)
+Plus Technologies
+Rolta
+Affinity Circles
+Enlighta
+Catalent
+Thunderhead
+Blue Cedar
+The Artec Group
+WorkOtter
+Westell Technologies
+Ecessa
+Sify
+CloudPhysics
+ThinPrint
+Softomotive
+Vivante
+Conversica
+Thuraya
+MyoWare
+BravoSolution
+Palisade (@Risk)
+Pason
+InRule Technology
+Cerillion
+AppNeta
+Augur
+Sixt
+Mesa Labs (TempSys)
+IROKOTV
+Bocusini
+Duck Creek Technologies
+Leanplum
+Radius

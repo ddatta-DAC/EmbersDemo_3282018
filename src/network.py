@@ -13,8 +13,11 @@ from entity import company
 class network:
 
     def __init__(self, init=False):
-        self.save_file = None
         self.G = None
+        if init:
+            self.create_network()
+        else:
+            self.load_model()
         return
 
     def create_network(self):
@@ -30,8 +33,6 @@ class network:
         return
 
     def load_model(self):
-        if self.G is None:
-            self.create_network()
         with open(self.save_file, "rb") as f:
             self.G = cPickle.load(f)
         return
@@ -41,15 +42,14 @@ class network:
 
 class company_network(network):
 
-    def __init__(self, init=False):
-        network.__init__(self, init)
+    def __init__(self, init = False):
         self.save_file = config.company_network_file
-
+        network.__init__(self, init)
+        self.G = None
         if init:
             self.create_network()
         else:
             self.load_model()
-
         return
 
     def get_network_info(self):
@@ -64,12 +64,13 @@ class company_network(network):
         # Weight between nodes of the same class is 1
 
         self.G = nx.Graph()
-
         for data in gp.gen_data_to_feed():
-
             node_list = []
             for h in data['instance']:
                 if h == 'nan':
+                    continue
+                h = str.lower(h)
+                if len(h) > 150 :
                     continue
 
                 node = company(h, data['class'])
@@ -89,10 +90,10 @@ class company_network(network):
         self.save_model()
         return
 
-    def get_sim_companies(self, cname):
+    def get_sim_entities(self, ename):
         sim_com_list = []
         for g in self.G.nodes():
-            if g.get_name() == cname:
+            if g.get_name() == ename:
                 # get all neighbors of g
                 nbrs = self.G.neighbors(g)
                 for n in nbrs:
@@ -100,9 +101,9 @@ class company_network(network):
 
         return sim_com_list
 
-    def get_node(self, c_name):
+    def get_node(self, ename):
         for g in self.G.nodes():
-            if g.get_name() == c_name:
+            if g.get_name() == ename:
                 return g
 
 
@@ -123,13 +124,19 @@ class product_network(network):
 
 
 def dummy_test():
-    network_obj = company_network(True)
-    network_obj.get_network_info()
-    test_list = ['Facebook', 'ABB', 'NASA', 'Teradata', 'Yahoo', 'Zebra Medical Vision', 'Palantir']
-    for t in test_list:
-        print 'Company :: ', t
-        print network_obj.get_sim_companies(t)
+    company_network_obj = company_network(False)
+    company_network_obj.get_network_info()
+    # test_list = ['Facebook', 'ABB', 'NASA', 'Teradata', 'Yahoo', 'Zebra Medical Vision', 'Palantir']
+    # for t in test_list:
+    #     print 'Company :: ', t
+    #     print network_obj.get_sim_companies(t)
     # print network_obj.get_node('Yahoo').display()
-
+    name_list = []
+    for g in company_network_obj.G.nodes():
+        n = g.get_name()
+        name_list.append(n)
+    print name_list
+    with open('cnames.txt', "w") as f:
+        f.write('\n'.join(name_list))
 
 dummy_test()

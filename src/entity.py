@@ -44,7 +44,6 @@ class company(entity):
         self.set_class(_class)
         return
 
-
     def get_class(self):
         return self._class
 
