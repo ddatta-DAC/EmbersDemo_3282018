@@ -7,6 +7,7 @@ import config
 from entity import entity
 import vsm_1
 
+
 # -------------------------------------------------- #
 
 class entity_network:
@@ -22,7 +23,6 @@ class entity_network:
         return
 
     def save_model(self):
-        print '> ', self.save_file
         # save the network
         with open(self.save_file, "wb") as f:
             cPickle.dump(self.G, f)
@@ -60,7 +60,7 @@ class entity_network:
                     if g.get_name() == h:
                         node = g
                         break
-                node.set_text(text_dict=data['text'])
+                node.set_text(text_data=data['text'])
                 node_list.append(node)
 
             edge_list = list(itertools.combinations(node_list, 2))
@@ -83,13 +83,15 @@ class entity_network:
         return sim_com_list
 
     def get_node(self, ename):
+
         for g in self.G.nodes():
             if g.get_name() == ename:
                 return g
         return None
+
     # Input
     # tweet_data = { 'entity' : [ keywords] }
-    def enrich(self,tweet_data,vsm_model):
+    def enrich(self, tweet_data, vsm_model):
 
         for entity_name, text in tweet_data.iteritems():
             g = self.get_node(ename=entity_name)
@@ -97,8 +99,17 @@ class entity_network:
                 g = entity(entity_name)
                 self.G.add_nodes_from([g])
                 # Todo : add in text data
+                g.set_text(text)
+                g.set_tweet_text(text)
                 # Todo : add in edges
+        self.add_edges_by_tweet(vsm_model)
+        return
 
+    def add_edges_by_tweet(self, vsm_model):
+        for g in self.G.nodes():
+           # skip if it has no tweet data
+           if len(g.get_tweet_text()) == 0:
+               continue
 
         return
 
@@ -125,3 +136,7 @@ class entity_network:
 #     #     f.write('\n'.join(name_list))
 #
 # dummy_test()
+
+company_network_obj = entity_network(False)
+company_network_obj.get_network_info()
+print company_network_obj.get_node('facebook').display()

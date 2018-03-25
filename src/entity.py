@@ -6,6 +6,8 @@ class entity:
         self._name = _name
         self._class = []
         self.set_class(_class)
+        self.text_data = []
+        self.tweet_text = []
         return
 
     def get_class(self):
@@ -15,13 +17,12 @@ class entity:
         print ' instance :: ', self._name
         return
 
-    def set_text(self, text_dict):
+    def set_text(self, text_data):
 
-        if self.text_dict is None:
-            self.text_dict = text_dict
+        if self.text_data is None:
+            self.text_data = text_data
         else:
-            for k, v in text_dict.iteritems():
-                self.text_dict[k].append(v)
+            self.text_data.append(text_data)
         return
 
     def set_class(self, _class):
@@ -32,7 +33,11 @@ class entity:
     def get_name(self):
         return self._name
 
-    def get_text_dict(self):
-        return self.text_dict
+    def get_text_data(self):
+        return self.text_data
 
+    def set_tweet_text(self,text):
+        self.tweet_text = text
 
+    def get_tweet_text(self):
+        return self.tweet_text
