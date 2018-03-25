@@ -19,13 +19,21 @@ class pretrained_model:
         score = 0
         for k in keyword_list:
             for t in text_list:
-                score += self.model.wv.most_similar_cosmul(k,t)
+                score += self.model.wv.similarity(k,t)
         score = score / len(keyword_list)
         return score
     
+    def get_most_sim(self,word):
+        try:
+            return self.model.wv.most_similar_cosmul([word])
+        except :
+            print ' nope!'
 
-
-
+pt = pretrained_model()
+ls = ['facebook','blockchain','iot','spacex','cryptocurrency','Ariba','networks']
+for l in ls :
+    print '--',l
+    print pt.get_most_sim(l)
 
 
 

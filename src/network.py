@@ -124,19 +124,19 @@ class product_network(network):
 
 
 def dummy_test():
-    company_network_obj = company_network(False)
+    company_network_obj = company_network(True)
     company_network_obj.get_network_info()
     # test_list = ['Facebook', 'ABB', 'NASA', 'Teradata', 'Yahoo', 'Zebra Medical Vision', 'Palantir']
     # for t in test_list:
     #     print 'Company :: ', t
     #     print network_obj.get_sim_companies(t)
     # print network_obj.get_node('Yahoo').display()
-    name_list = []
-    for g in company_network_obj.G.nodes():
-        n = g.get_name()
-        name_list.append(n)
-    print name_list
-    with open('cnames.txt', "w") as f:
-        f.write('\n'.join(name_list))
+    # name_list = []
+    # for g in company_network_obj.G.nodes():
+    #     n = g.get_name()
+    #     name_list.append(n)
+    # print name_list
+    # with open('cnames.txt', "w") as f:
+    #     f.write('\n'.join(name_list))
 
 dummy_test()
