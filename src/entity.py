@@ -1,11 +1,15 @@
-
-
+# an entity(instance) object
+# can belong to multiple classes
 class entity:
 
-    def __init__(self, _name):
+    def __init__(self, _name, _class=None):
         self._name = _name
-        self.text_dict = None
+        self._class = []
+        self.set_class(_class)
         return
+
+    def get_class(self):
+        return self._class
 
     def display(self):
         print ' instance :: ', self._name
@@ -31,32 +35,4 @@ class entity:
     def get_text_dict(self):
         return self.text_dict
 
-
-# ------------------------------------------ #
-
-# a company(instance) object
-# can belong to multiple classes
-class company(entity):
-
-    def __init__(self, _name, _class=None):
-        entity.__init__(self,_name)
-        self._class = []
-        self.set_class(_class)
-        return
-
-    def get_class(self):
-        return self._class
-
-    def display(self):
-        print ' instance :: ', self._name, ' class ::', self._class
-        return
-
-# --------------------------------------------- #
-
-
-class product(entity):
-
-    def __init__(self, _name):
-        entity.__init__(self,_name)
-        return
 

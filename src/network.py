@@ -2,27 +2,23 @@ import networkx as nx
 import gartner_ds_parser as gp
 import itertools
 import pprint
-# class for a company
 import cPickle
-import pickle
 import config
-from serialize import dump, load
-from entity import company
+from entity import entity
+import vsm_1
 
+# -------------------------------------------------- #
 
-class network:
+class entity_network:
 
     def __init__(self, init=False):
+        self.save_file = config.company_network_file
         self.G = None
+
         if init:
             self.create_network()
         else:
             self.load_model()
-        return
-
-    def create_network(self):
-        self.G = nx.Graph()
-        self.save_model()
         return
 
     def save_model(self):
@@ -35,21 +31,6 @@ class network:
     def load_model(self):
         with open(self.save_file, "rb") as f:
             self.G = cPickle.load(f)
-        return
-
-
-# -------------------------------------------------- #
-
-class company_network(network):
-
-    def __init__(self, init = False):
-        self.save_file = config.company_network_file
-        network.__init__(self, init)
-        self.G = None
-        if init:
-            self.create_network()
-        else:
-            self.load_model()
         return
 
     def get_network_info(self):
@@ -70,10 +51,10 @@ class company_network(network):
                 if h == 'nan':
                     continue
                 h = str.lower(h)
-                if len(h) > 150 :
+                if len(h) > 150:
                     continue
 
-                node = company(h, data['class'])
+                node = entity(h, data['class'])
                 # check if node exists!
                 for g in self.G.nodes():
                     if g.get_name() == h:
@@ -105,38 +86,42 @@ class company_network(network):
         for g in self.G.nodes():
             if g.get_name() == ename:
                 return g
+        return None
+    # Input
+    # tweet_data = { 'entity' : [ keywords] }
+    def enrich(self,tweet_data,vsm_model):
+
+        for entity_name, text in tweet_data.iteritems():
+            g = self.get_node(ename=entity_name)
+            if g is None:
+                g = entity(entity_name)
+                self.G.add_nodes_from([g])
+                # Todo : add in text data
+                # Todo : add in edges
 
 
-# -------------------------------------------------- #
-
-class product_network(network):
-    def __init__(self, init=False):
-        network.__init__(self, init)
         return
 
-    def create_network(self):
-        return
-
 
 # -------------------------------------------------- #
 
 # -------------------------------------------------- #
 
 
-def dummy_test():
-    company_network_obj = company_network(True)
-    company_network_obj.get_network_info()
-    # test_list = ['Facebook', 'ABB', 'NASA', 'Teradata', 'Yahoo', 'Zebra Medical Vision', 'Palantir']
-    # for t in test_list:
-    #     print 'Company :: ', t
-    #     print network_obj.get_sim_companies(t)
-    # print network_obj.get_node('Yahoo').display()
-    # name_list = []
-    # for g in company_network_obj.G.nodes():
-    #     n = g.get_name()
-    #     name_list.append(n)
-    # print name_list
-    # with open('cnames.txt', "w") as f:
-    #     f.write('\n'.join(name_list))
-
-dummy_test()
+# def dummy_test():
+#     company_network_obj = company_network(True)
+#     company_network_obj.get_network_info()
+#     # test_list = ['Facebook', 'ABB', 'NASA', 'Teradata', 'Yahoo', 'Zebra Medical Vision', 'Palantir']
+#     # for t in test_list:
+#     #     print 'Company :: ', t
+#     #     print network_obj.get_sim_companies(t)
+#     # print network_obj.get_node('Yahoo').display()
+#     # name_list = []
+#     # for g in company_network_obj.G.nodes():
+#     #     n = g.get_name()
+#     #     name_list.append(n)
+#     # print name_list
+#     # with open('cnames.txt', "w") as f:
+#     #     f.write('\n'.join(name_list))
+#
+# dummy_test()

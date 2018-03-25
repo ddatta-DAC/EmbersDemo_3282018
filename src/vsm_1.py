@@ -5,6 +5,7 @@ from sklearn.metrics.pairwise import linear_kernel
 import config
 import operator
 
+
 # ------------------------- #
 
 class vsm:
@@ -104,12 +105,13 @@ class vsm:
 
 
 def test():
-    inp = {'Trump': ['president', 'motherfucker', 'Ivanka'],
-           'Mueller': ['Trump', 'FBI', 'USA'],
-           'Adam Levine': ['USA', 'singer', 'music'],
-           'Floyd': ['USA', 'Virginia', 'music'],
-           'Stallone': ['USA', 'philly', 'music']
-           }
+    inp = {
+        'Trump': ['president', 'motherfucker', 'Ivanka'],
+        'Mueller': ['Trump', 'FBI', 'USA'],
+        'Adam Levine': ['USA', 'singer', 'music'],
+        'Floyd': ['USA', 'Virginia', 'music'],
+        'Stallone': ['USA', 'philly', 'music']
+    }
 
     obj = vsm(None, False)
     print obj.get_most_sim_entity('U2', 'USA music band')
