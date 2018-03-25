@@ -3,19 +3,19 @@ import json
 import config
 import codecs
 import string
-from ftfy import fix_encoding
 import unicodedata
 import cPickle
 import pprint
 
 
 def clean_tweet_token(s):
-
     s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore')
     s = s.encode('ascii', 'ignore')
     s = s.strip('",;')
+    s = s.strip()
     s = string.lower(s)
     return s
+
 
 def process_json(_dict):
     result = []
@@ -43,30 +43,56 @@ def process_json(_dict):
             if len(token) > 0:
                 text_data.append(token)
 
-
     # assuming multiple entities are present!
     for e in entity_list:
-        if len(e)> 0 :
-            res = {e:text_data}
-        result.append(res)
+        if len(e) > 0:
+            res = {e: text_data}
+            print ' > > ', res
+            result.append(res)
 
     return result
+
+
+def format_data(input_list):
+    ent_text_dict = {}
+    for item in input_list:
+        _item = item[0]
+        if not isinstance(_item, dict):
+            continue
+        for ent, text in _item.iteritems():
+            if ent not in ent_text_dict.keys():
+                ent_text_dict[ent] = text
+            else:
+                ent_text_dict[ent].extend(text)
+    return ent_text_dict
+
 
 # Returns a dictionary  { entity : [ <keywords> ] }
 def process_tweet_data():
-
     inp_file_name = config.tweet_data_file
     result = []
-    with codecs.open(inp_file_name,'r',encoding='utf8') as fp:
+    with codecs.open(inp_file_name, 'r', encoding='utf8') as fp:
         for line in fp:
             _dict = json.loads(line)
             res = process_json(_dict)
-            result.append(res)
+            if res:
+                result.append(res)
+    pprint.pprint(result)
+    result = format_data(result)
     return result
 
 
-res = process_tweet_data()
-with open(config.tweet_data_save_file, "wb") as f:
-    cPickle.dump(res, f)
+def parse_save_tweet_data():
+    res = process_tweet_data()
+    pprint.pprint(res)
+    with open(config.tweet_data_save_file, "wb") as f:
+        cPickle.dump(res, f)
 
-pprint.pprint(res)
+
+def load_tweet_data():
+    with open(config.tweet_data_save_file, "rb") as f:
+        tweet_dict = cPickle.load(f)
+        return tweet_dict
+
+
+parse_save_tweet_data()
