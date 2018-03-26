@@ -47,7 +47,6 @@ def process_json(_dict):
     for e in entity_list:
         if len(e) > 0:
             res = {e: text_data}
-            print ' > > ', res
             result.append(res)
 
     return result
@@ -95,4 +94,4 @@ def load_tweet_data():
         return tweet_dict
 
 
-parse_save_tweet_data()
+

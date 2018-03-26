@@ -86,7 +86,7 @@ class vsm:
     # Returns
     # { sim_ent_1 : score , .... }
     def get_most_sim_entity(self, target, text_data):
-        response = self.tf_idf.transform([text_data])
+        response = self.tf_idf.transform(text_data)
         score_dict = {}
         for entity, tf_idf_vector in self.entity_tf_idf.iteritems():
             # Check self-compares

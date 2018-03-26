@@ -6,6 +6,7 @@ import xlrd
 import textacy
 from spacy.language import Language
 import spacy
+import util
 
 # Set up english as the language for the text
 lang = spacy.load('en_core_web_sm')
@@ -145,6 +146,7 @@ def clean_gartner_data():
 
 
 def process_name(name):
+    name = util.clean_entity_name(name)
     name = name.strip()
     return name
 
@@ -168,6 +170,16 @@ def gen_data_to_feed():
         dict['text'] = process_assc_text(text)
 
         yield dict
+
+
+def generate_coccurence_matrix():
+    global data_file_loc
+    global clean_file_name
+    cleaned_file_path = data_file_loc + '/' + clean_file_name
+    df = pd.read_csv(cleaned_file_path, index_col=0)
+    for i, row in df.iterrows():
+        entities = [process_name(x) for x in str(row['instance']).split(';')]
+        print entities
 
 
 # --------------------- Call methods! ---------------------- #
